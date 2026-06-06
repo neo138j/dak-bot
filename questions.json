@@ -1,0 +1,3589 @@
+[
+  {
+    "q": "Boshlang‘ich ta’lim pedagogika fanining ob’yekti nima?",
+    "correct": "Yaxlit pedagogik jarayon.",
+    "wrong": [
+      "Talim-tarbiya beruvchi shaxs.",
+      "Pedagogika fanining ob’yekti – ta’lim, darslik va sinf.",
+      "Pedagogika fanining ob’yekti – shaxs."
+    ]
+  },
+  {
+    "q": "Ma’lumot bu?",
+    "correct": "Ta’lim-tarbiya natijasida olingan va tizimlashtirilgan bilim, ko`nikma va malakalar hamda shakllangan dunyoqarashlar majmuidir.",
+    "wrong": [
+      "O‘quvchi dunyoqarashini shakllantirish.",
+      "Ma’lumot bu – ta’lim-tarbiya yig`indisidir.",
+      "Maxsus tayyorgarlik natijasida hosil qilingan bilimdir."
+    ]
+  },
+  {
+    "q": "Shaxs shakllanishiga ta’sir etuvchi omillar ko‘rsatilgan javobni aniqlang?",
+    "correct": "Irsiyat, muhit, ta’lim-tarbiya, faoliyat.",
+    "wrong": [
+      "Aqliy, jismoniy, axloqiy, mehnat.",
+      "Irsiyat, ijtimoiy muhit, ta’lim-tarbiya, faoliyat",
+      "Biologik omil, ta’lim-tarbiya, ijtimoiy muhit."
+    ]
+  },
+  {
+    "q": "O‘quv rejasi nima?",
+    "correct": "O‘quv fanlarining nomi, o‘tiladigan soatlar miqdori, fakultativ mashg‘ulotlar uchun ajratilgan soatlar miqdori, o‘quv yilining qurilishi ko‘rsatilgan davlat hujjatidir.",
+    "wrong": [
+      "O‘quv fanlarining nomi va miqdori, sinflardagi o‘rganilish izchilligi, dars jadvali ko‘rsatilgan davlat hujjatidir.",
+      "O‘quv fanining mazmuni ko‘rsatilgan davlat hujjatidir.",
+      "O‘quv fanlari soatlari ko`rsatilgan hujjatdir."
+    ]
+  },
+  {
+    "q": "Bilimlarni umumlashtiruvchi-takrorlash darsining tuzilishi?",
+    "correct": "Tashkiliy qism, uy vazifasini so‘rash, mustahkamlash, darsni yakunlash.",
+    "wrong": [
+      "Tashkiliy qism, yangi mavzu bayoni, mustahkamlash, darsni yakunlash.",
+      "Tashkiliy qism, uy vazifasini so‘rash, o‘tilganlarni takrorlash va umumlashtirish, darsni yakunlash va uyga vazifa berish.",
+      "Tashkiliy qism, mustahkamlash,darsni yakunlash."
+    ]
+  },
+  {
+    "q": "Dars, seminar, amaliy mashg‘ulot, ma’ruzalar bular … ?",
+    "correct": "Ta’limni tashkil etish shakllari.",
+    "wrong": [
+      "Ta’lim usullari.",
+      "Ta’lim qonuniyatlari.",
+      "Ta’lim vositalari"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich ta’limda qaysi fanlar orqali estetik tarbiya berish nazarda tutilgan?",
+    "correct": "Musiqa, tasviriy san’at, texnologiya.",
+    "wrong": [
+      "Matematika, ona tili, rus tili.",
+      "tasviriy san`at, texnologiya, tarbiya, matematika.",
+      "O`qish, ona tili, tarbiya, ingliz tili."
+    ]
+  },
+  {
+    "q": "Jismoniy tarbiya vazifalarini belgilang?",
+    "correct": "Jismoniy rivojlanish, sog`liqni mustahkamlash, chiniqish, harakat sifatlarini rivojlantirish.",
+    "wrong": [
+      "Ishbilarmon, sog‘lom shaxsni tarbiyalash.",
+      "Mehnatga odatlanish va muhabbatni singdirish, ijtimoiy ko`nikma va malakalarni qaror toptirish.",
+      "Umuminsoniy madaniyat va milliy qadriyatlarni bilishga jalb qilish."
+    ]
+  },
+  {
+    "q": "Maxsus pedagogika fani nimani o`rganadi?",
+    "correct": "Jismoniy va aqliy rivojlanishida nuqsoni bor bolalarga ta’lim-tarbiya berish yo‘llarini o`rganuvchi fandir.",
+    "wrong": [
+      "Maxsus yo`nalishga qaratilgan fandir.",
+      "Maxsus ta’lim-tarbiya muassasalari faoliyatini belgilovchi fandir.",
+      "Umumiy pedagogika, pedagogika tarixi, yosh pedagogikasi, maxsus pedagogika."
+    ]
+  },
+  {
+    "q": "Ko`rsatilgan hujjatlarning qaysi biri umumiy o‘rta ta’limning asosiy me’yoriy-huquqiy hujjati hisoblanadi?",
+    "correct": "Davlat ta’lim standartlari, malaka talablari, o`quv rejasi, o`quv dastur.",
+    "wrong": [
+      "O`quv rejasi, darsliklar, adabiyotlar, o‘quv-metodik majmualar.",
+      "Davlat talablari, ta’lim metodlari.",
+      "Malakaviy talablar, ko‘nikma hosil qilish."
+    ]
+  },
+  {
+    "q": "Shaxsga to‘g‘ri ta’rif berilgan javobni aniqlang?",
+    "correct": "Psiхоlоgik jihаtdаn tаrаqqiy etgаn, shахsiy хususiyatlаri vа хаtti-hаrаkаtlаri bilаn bоshqаlаrdаn аjrаlib turuvchi, muаyyan хulq-аtvоr vа dunyoqаrаshgа egа bo`lgаn jаmiyat а’zоsi.",
+    "wrong": [
+      "Shaxs deganda jamiyatning a’zosi tushuniladi.",
+      "Fuqarolik pasportiga ega bo‘lgan kishilar.",
+      "Jamiyatdagi moddiy va ma’naviy boyliklardan bahramand bo‘ladigan kishilar."
+    ]
+  },
+  {
+    "q": "Yangi bilimlarni bayon qilish darsi qurilishini ko‘rsating?",
+    "correct": "Tashkiliy qism, uy vazifasini tekshirish, yangi mavzu bayoni, yangi mavzuni mustahkamlash, darsni yakunlash va uyga vazifa berish.",
+    "wrong": [
+      "Tashkiliy qism, uy vazifasini so‘rash, mustahkamlash, yangi mavzu bayoni, yangi mavzuni  mustahkamlash, darsni yakunlash va uyga vazifa  berish.",
+      "Tashkiliy qism, yangi mavzu bayoni, mustahkamlash, darsni yakunlash.",
+      "-Mavzuni tushuntirish, baho qo`yish, uyga vazifa berish."
+    ]
+  },
+  {
+    "q": "Sinf  bu…?",
+    "correct": "Yoshi va bilimi jihatidan bir xil bo‘lgan ma’lum miqdordagi o‘quvchilar guruhi.",
+    "wrong": [
+      "Ma’lum yoshdagi o‘quvchilar bilan olib boriladigan mashg‘ulot.",
+      "Bir xil yoshdagi o‘quvchilarning birlashmasidir.",
+      "Bevosita o‘qituvchi rahbarligidagi muayyan o‘quvchilar guruhi."
+    ]
+  },
+  {
+    "q": "Faqat insongagina xos xususiyat bo‘lgan, tabiat hodisalari , har bir kishining hayotda tutgan o‘rni , voqelikka munosabati to‘g‘risidagi qarashlar tizimi nima deb ataladi?",
+    "correct": "Dunyoqarash.",
+    "wrong": [
+      "Ishonch.",
+      "Ong.",
+      "Farosat."
+    ]
+  },
+  {
+    "q": "Axloqiy tarbiyaning asosiy vazifalari nimalardan iborat?",
+    "correct": "Yosh avlodni jamiyatda qabul qilingan axloqiy me’yorlarga rioya qilish, Vatanga muhabbat, milliy qadriyatlarga hurmat ruhida tarbiyalash,   tabiatga mas`ullik munosabatini shakllantirish.",
+    "wrong": [
+      "Fanni o`rganishga muhabbat uyg`otish, bilimga tashnalik fazilatlarini tarbiyalash, iqtisodiy ongni shakllantirish.",
+      "Ong hissi va xulq -atvor malakalari va milliy qadriyatlar bilan oshno qilish, huquqiy ongni shakllantirish.",
+      "O`zaro hurmat hissini tarbiyalash, tabiatga mas`ullik munosabatini shakllantirish."
+    ]
+  },
+  {
+    "q": "Quyidagilarning qaysi biri pedagogika fanining asosiy tushunchalari (kategoriyalari) hisoblanadi?",
+    "correct": "bilim, ko‘nikma, ma’lumot, ta’lim-tarbiya, shaxs, malaka, rivojlanish, kompetensiya",
+    "wrong": [
+      "Barcha javoblar to‘g‘ri.",
+      "Bilim, ko`nikma, malaka, iqtidor.",
+      "Muhit, irsiyat, metod, shaxsning shakllanishi"
+    ]
+  },
+  {
+    "q": "Bola shaxsi shakllanishida irsiy jihatidan o‘tadigan belgi va xususiyatlarni ko‘rsating.",
+    "correct": "Barcha javoblar to‘gri.",
+    "wrong": [
+      "Ota-ona tashqi ko‘rinishiga hos bo‘lgan xususiyatlar, Xarakter,",
+      "Ovozi, tana va sochi, qoshi, ko‘zining rangi, fe’l – atvori, qiziqish, qobiliyat",
+      "Ota – ona va yaqin qarindoshlardan o‘tadigan tashqi ko‘rinishi, qobiliyati,  fe’l-atvori."
+    ]
+  },
+  {
+    "q": "Bilim bu —?",
+    "correct": "Tabiat va jamiyatdagi voqea-hodisalarning bosh miyada aks etishi, yillar jarayonidagi yig‘ilgan  ma’lumotlar.",
+    "wrong": [
+      "Tevarak atrofdagi voqea-hodisalarni bilib olinishi.",
+      "O‘quv fanlarining o‘rganilgan qismidir.",
+      "O`rganilgan barcha tushunchalar."
+    ]
+  },
+  {
+    "q": "Dars tushunchasini ta’riflang?",
+    "correct": "Bevosita o‘qituvchi rahbarligida qatiy jadval asosida( yoshi cheklagan) muayyan o‘quvchilar guruhi bilan olib boriladigan ta’limiy- tarbiyaviy  jarayon.",
+    "wrong": [
+      "O‘quvchilar bilim oladigan va bilimlari baholanadigan jarayon.",
+      "Ta’limni tashkil etish shakli.",
+      "Ma’lum muddat davom etib, xilma- xil metodlardan foydalanilib o‘tkaziladigan jarayon"
+    ]
+  },
+  {
+    "q": "Og`zaki bayon qilish metodlarining ifoda vositasi nima?",
+    "correct": "O‘qituvchining jonli so`zi va nutqi.",
+    "wrong": [
+      "Ko`rgazmali qurollar.",
+      "Darslik, kitob.",
+      "O‘zbek tilining izohli lug‘ati."
+    ]
+  },
+  {
+    "q": "O‘quv dasturning tuzilish  tamoyillarini aniqlang?",
+    "correct": "Dasturning ilmiyligi, izchilligi, ketma-ketligi tamoyili.",
+    "wrong": [
+      "Nazariyaning amaliyot bilan birligi, o`quv-chilarning yosh va alohida xususiyatlarini hisobga olish, o‘quv  fanlarining  o‘zaro bog‘liqligi  prinsipi.",
+      "Dasturning gumanitarligi, milliyligi, zamonaviyligi, raqobatdoshligi prinsipi.",
+      "Barcha javoblar to‘g‘ri."
+    ]
+  },
+  {
+    "q": "O‘quvchilarning o‘quv faoliyatini nazorat qilish metodlari toping?",
+    "correct": "og‘zaki tekshirish, yozma tekshirish, amaliy topshiriqlarni bajarishga asoslangan tekshirish, uy vazifalarini tekshirish.",
+    "wrong": [
+      "Yozma, amaliy, uy vazifalarini tekshirish, individual guruhli.",
+      "Uy ishi, amaliy topshiriqlarni bajarishga asoslangan tekshirish,",
+      "Ommaviy, individual, individual guruhli."
+    ]
+  },
+  {
+    "q": "Axloqiy fazilatlar dastlab qayerda shakllanadi?",
+    "correct": "Oilada, maktabda, dars jarayonida, sinf  va maktabdan tashqari ishlarda, sinf tarbiyaviy soatlarida, mahallada, jamoatda va h.k.o;",
+    "wrong": [
+      "Axloqiy munosabatlar dastlab oilada shakllanadi.",
+      "Jamoatda, tadbirlarda, mahallada, oilada;",
+      "Maktabda, kutubxonada."
+    ]
+  },
+  {
+    "q": "Jismoniy tarbiya darslari orqali o‘quvchilarda shakllantiriladigan sifatlar….?",
+    "correct": "Kuch, epchillik, chaqqonlik, chidamlilik, tezkorlik.",
+    "wrong": [
+      "Vatanparvarlik, mehnatsevarlik, rostgo‘ylik.",
+      "Kamtarlik, xushmuomalalik, bag‘rikenglik.",
+      "Chiniqish, mas’uliyatni his qilish, oliyjanoblik."
+    ]
+  },
+  {
+    "q": "Ta’lim bu - …?",
+    "correct": "Maxsus tayyorlangan kishilar rahbarligida o`tkaziladigan, o`quvchilarning bilish qobiliyatlarini o`stiradigan, ularning dunyoqarashini tarkib toptiradigan jarayondir;",
+    "wrong": [
+      "Ta’lim - bu o`qitishdir;",
+      "Ta’lim-tarbiya natijasida olingan va tizimlashtirilgan bilim, hosil qilingan ko`nikma va malakalar hamda shakllangan dunyoqarashlar majmuidir;",
+      "O`sib kelayotgan avlodda hosil qilingan bilimlar asosida aqliy komolot, dunyoqarashini, insoniy e’tiqod, burch va mas`uliyatini, jamiyatimiz kishilariga xos bo`lgan axloqiy fazilatlarni kamol toptirish maqsadini ifodalaydi."
+    ]
+  },
+  {
+    "q": "Eksursiya darsi qurilishini ko‘rsating?",
+    "correct": "Tashkiliy qism: o‘qituvchining tayyorgarligi, o‘quvchining tayyorgarligi, ekskursiyani o‘tkazish, darsni yakunlash.Amaliy dars turiga kiradi.",
+    "wrong": [
+      "O`quvchilarni ekskursiyaga olib borish.",
+      "O‘quvchilarni darsga tayyorlash, o‘qituvchining bayoni, ekskursiyani yakunlash.",
+      "Tashkiliy qism: o‘quvchining tayyorgarligi, ekskursiyani o‘tkazish, o‘qituvchining bayoni."
+    ]
+  },
+  {
+    "q": "o‘rganilayotgan materialni egallashga qaratilgan turli didaktik vazifalarni hal etish bo‘yicha o‘qituvchining o‘rgatuvchi ishi va o‘quvchilarning o‘quv-bilish faoliyatini tashkil etish usullari yig‘indisi… deb ataladi?",
+    "correct": "Ta’lim metodlari.",
+    "wrong": [
+      "Og‘zaki bayon metodlari.",
+      "Tushuntirish metodlari.",
+      "Suhbat metodlari."
+    ]
+  },
+  {
+    "q": "Qaysi ta’lim shakli 400 yildan  avval asoslangan bo‘lsa-da, bugungi kunda ham keng qo‘llanilmoqda?",
+    "correct": "Sinf-dars",
+    "wrong": [
+      "Individual-guruhli.",
+      "Individual.",
+      "Ma’ruza – seminar."
+    ]
+  },
+  {
+    "q": "Kundalik nazoratga berilgan to‘g‘ri ta’rifni aniqlang?",
+    "correct": "O‘quvchilar tomonidan egallangan bilimlarni muntazam nazorat qilish.",
+    "wrong": [
+      "Berilgan bilimlarni boblar bo‘yicha so‘rash.",
+      "O‘quv yili davomida o‘tilgan mavzular bo‘yicha baholash.",
+      "Muayyan o‘quv materiali yuzasidan baholash."
+    ]
+  },
+  {
+    "q": "Sinf dars tizimining asoschisi kim?",
+    "correct": "Y.A. Komenskiy.",
+    "wrong": [
+      "D.K. Ushinskiy.",
+      "A.Avloniy.",
+      "A.Disterveg."
+    ]
+  },
+  {
+    "q": "Shaxsning asosiy axloqiy sifatlarini keltiring.",
+    "correct": "Vatanparvarlik, insonparvarlik, intizomlilik, sofdillik, adolatparvarlik, mehnatsevarlik, jamoatchilik;",
+    "wrong": [
+      "Sabrlilik,  vazminlik, irodalilik, qat’iyatlilik; kuchlilik.",
+      "Jismoniy rivojlanish, salomatlikni mustah-kamlash, organizmni chiniqtirish;",
+      "Tejamkorlik, insoniylik, yaxshilik qilish, to`g`ri so`zlilik; chaqqonlik."
+    ]
+  },
+  {
+    "q": "Mehnat tarbiyasining asosiy vazifalarini ko`rsating?",
+    "correct": "O`quvchilarni mehnat qilishga odatlantirish va unga muhabbatni tarbiyalash,   o`z–o`ziga xizmat qilishga, o`zgalar mehnatini qadrlashga o`rgatish, kasbga yo‘naltirish, zarur mehnat ko‘nikmalarini shakllantirish.",
+    "wrong": [
+      "Iqtisodiy tafakkur, ishbilarmonlik sifatlari, ijtimoiy faollik, tashabbuskorlikni tarbiyalash;",
+      "Tejamkorlik, insoniylik kabi sifatlarni shakllantirish.",
+      "Ijtimoiy foydali mehnatda, o`quvchilar jamoasini boshqarish ishlarida, navbatchilik ishlarida, hasharlarda ishtirok etish;"
+    ]
+  },
+  {
+    "q": "… orqali o‘quvchlarda aqliy mehnat madaniyati, mas’uliyat hissi, uyga berilgan topshiriqlarni bajarish ko‘nikmalari hosil bo‘ladi?",
+    "correct": "O‘quv mehnati.",
+    "wrong": [
+      "Ijtimoiy foydali mehnat.",
+      "Maishiy mehnat.",
+      "O‘z-o‘ziga xizmat."
+    ]
+  },
+  {
+    "q": "Ta’lim tamoyillarini aniqlang?",
+    "correct": "Barcha javoblar to‘g‘ri.",
+    "wrong": [
+      "Ta’limning ilmiyligi, muntazamliligi, izchilligi, ko‘rsatmaliligi.",
+      "Ta’limda o‘quvchilarning ongliligi va faolligi, ta’limda nazariyaning amaliyot bilan birligi.",
+      "Ta`limda  o`quvchilarning yosh va alohida xususiyatlarini hisobga olish, ta`limni puxta va mustahkam o‘zlashtirish."
+    ]
+  },
+  {
+    "q": "Ta’limning mazmuni nimalarda aks etadi?",
+    "correct": "O‘quv rejasida, o‘quv dasturida, davlat ta’lim standartida, darsliklarda, malaka talablarida.",
+    "wrong": [
+      "Buyruqlarda, o‘quv rejasida, darsliklarda.",
+      "Pedagogik kengash qarorlarida, metodik qo‘llanmalarda, buyruqlarda.",
+      "Yozma ishlarda, darsliklarda."
+    ]
+  },
+  {
+    "q": "Ta’limning og‘zaki bayon qilish metodlarini ko‘rsating?",
+    "correct": "Hikoya, tushuntirish, suhbat, savol-javob, ma’ruza, munozara.",
+    "wrong": [
+      "Hikoya, ma`ruza, amaliy ish, illustratsiya.",
+      "Suhbat, ko‘rsatish, amaliy ish, demonstarsiya.",
+      "Tushuntirish, muammoli izlanish, suhbat, ma’ruza, mashq."
+    ]
+  },
+  {
+    "q": "Qisqa vaqt ichida ko‘pchilikni baholash uchun qaysi metoddan foydalaniladi?",
+    "correct": "test.",
+    "wrong": [
+      "yozma.",
+      "masofali.",
+      "og‘zaki."
+    ]
+  },
+  {
+    "q": "O‘z – o‘zini tarbiyalash metodlari?",
+    "correct": "Shaxsiy majburiyat olish,  o`z-o`zini nazorat qilish, hisob berish, tahlil qilish,",
+    "wrong": [
+      "O`z-o`ziga hisobot berish, nazorat qilish.",
+      "O`z-o`zini nazorat qilish, o`z ishini baholash.",
+      "Shaxsiy majburiyat, o`z-o`zini baholash;"
+    ]
+  },
+  {
+    "q": "“4” ball necha foiz to‘plangan ball uchun qo‘yiladi?",
+    "correct": "71- 85% to‘plangan ball uchun;",
+    "wrong": [
+      "85- 90 % to‘plangan ball uchun;",
+      "56- 70% to‘plangan ball uchun;",
+      "80-85% to‘plangan ball uchun;"
+    ]
+  },
+  {
+    "q": "“Tarbiya biz uchun yo hayot, yo momot , yo najot, yo halokat, yo saodat, yo falokat masalasidir”so`zlarining muallifi kim?",
+    "correct": "Abdulla Avloniy;",
+    "wrong": [
+      "Yan Amos Komenskiy;",
+      "Abdurahmon Jomiy;",
+      "K.D.Ushinskiy."
+    ]
+  },
+  {
+    "q": "O‘quvchilarning bilim ko‘nikma va malakalarini tashxislashning turlarini ko‘rsating?",
+    "correct": "Nazorat, tekshirish, baholash, statistik ma’lumotlarni to‘plash va ularni tahlil qilish, dinamika tendensiyalarni aniqlash.",
+    "wrong": [
+      "Og‘zaki, test, yozma.",
+      "Amaliy, amaliy mashq, so‘rovnoma",
+      "Ochiq va yopiq testlar, anketa, yozma."
+    ]
+  },
+  {
+    "q": "Pedagogika fani XVII asrgacha qaysi fan negizida bo‘lgan?",
+    "correct": "Falsafa",
+    "wrong": [
+      "Bilogiya",
+      "Kimyo",
+      "Tabobat."
+    ]
+  },
+  {
+    "q": "Individ deganda nima tushuniladi?",
+    "correct": "lotincha “individium” so‘zidan olingan bo‘lib, “bo‘linmas”, “alohida shaxs”, “yagona” ma’nolarini anglatadi",
+    "wrong": [
+      "lotincha “individ” so‘zidan olingan bo‘lib, jamiyatda o‘z o‘rniga ega mavjudot",
+      "yunoncha “individium” sozidan olingan bo‘lib, jamiyatning bo‘linmas bo‘lagi hisoblanadi",
+      "yunoncha “individium” sozidan olingan bo‘lib , xatti-harakatlarini refleks yordamidagina tashkil eta oaluvchi biologik  mavjudotdir"
+    ]
+  },
+  {
+    "q": "Kichik maktab yoshi davrining yetakchi faoliyatini  ko‘rsating?",
+    "correct": "O‘quv faoliyati",
+    "wrong": [
+      "Predmetli faoliyat",
+      "O‘yin faoliyati",
+      "mehnat faoliyati"
+    ]
+  },
+  {
+    "q": "O‘spirinlik davrida yuzaga keladigan yangi xususiyatlar nimalardan iborat?",
+    "correct": "Mustaqillikka intilish hamda o‘zining katta bo‘lib qolganligini ko‘rsatish istagida namoyon bo‘luvchi, o‘ziga xos kattalik hissining vujudga kelishidir.",
+    "wrong": [
+      "O‘qishga ongli munosabati o‘sadi va his–tuyg‘ularning boyligi, turli-tumanligi bilan farq qiladi;",
+      "Shaxsning meni shakllanib, rivojlanadigan davr",
+      "E’tiqod va dunyoqarash bilan bir qatorda, axloqiy ideallar ham paydo bo‘ladi;"
+    ]
+  },
+  {
+    "q": "Bugungi kundа tа’limning nechta pаrаdigmаlаri keng tаrqаlgаn?",
+    "correct": "5ta",
+    "wrong": [
+      "3ta",
+      "4ta",
+      "6ta"
+    ]
+  },
+  {
+    "q": "Kimlar pedagogik faoliyat bilan shug‘ullanish huquqiga ega?",
+    "correct": "Tegishli ma‘lumoti, kasb-hunar tayyorgarligi bor va yuksak axloqiy fazilatlari bo‘lgan hamda pedagogik bilim, ko‘nikma va malakaga ega bo‘lgan shaxslar.",
+    "wrong": [
+      "Kasbiliy bilimlarga ega bo‘lgan fuqarolar",
+      "Oliy va o‘rta maxsus pedagogik ma‘lumotga ega bo‘lmagan shaxslar",
+      "Tegishli ma‘lumoti, kasb tayyorgarligi bor va yuksak axloqiy fazilatlarga ega bo‘lgan shaxslar"
+    ]
+  },
+  {
+    "q": "2020-yil 23-sentabrda O‘zbekiston Respublikasi prezidenti tomonidan nechanchi son bilan “Ta’lim to‘g‘risida”gi Qonunning yangi tahriri imzolandi?",
+    "correct": "637-son bilan",
+    "wrong": [
+      "20-son bilan",
+      "824-son bilan",
+      "393-son bilan"
+    ]
+  },
+  {
+    "q": "2020-yil 23-sentabrda O‘zbekiston Respublikasi prezidenti tomonidan 637-son bilan “Ta’lim to‘g‘risida”gi Qonun nechta bobd va moddadan tashkil topgan?",
+    "correct": "11-bob, 75 modda.",
+    "wrong": [
+      "5-bob, 34 modda.",
+      "7-bob, 128 modda.",
+      "18-bob, 150 modda."
+    ]
+  },
+  {
+    "q": "Ta’lim tashkilotlari pedagog xodimlarining huquqiy maqomi nechanchi bobda ko‘rsatilgan va nechanchi moddalarni o‘z ichiga oladi?",
+    "correct": "5-bob. 44,45,46-moddalarni o‘z ichiga oladi",
+    "wrong": [
+      "5-bob. 46,47,48-moddalarni o‘z ichiga oladi;",
+      "6-bob. 44,45,46-moddalarni o‘z ichiga oladi.",
+      "8-bob. 44,45,46-moddalarni o‘z ichiga oladi."
+    ]
+  },
+  {
+    "q": "“Ta’lim to‘g‘risida”gi qonundagi ta’lim turlarini ayting?",
+    "correct": "maktabgacha ta’lim va tarbiya; umumiy o‘rta va o‘rta maxsus ta’lim; professional ta’lim; oliy ta’lim; oliy ta’limdan keyingi ta’lim; kadrlarni qayta tayyorlash va ularning malakasini oshirish maktabdan tashqari ta’lim",
+    "wrong": [
+      "boshlang‘ich professional ta’lim; o‘rta professional ta’lim; o‘rta maxsus professional ta’lim.",
+      "maktabgacha ta’lim; o‘rta maxsus ta’lim; professional ta’lim; oliy ta’lim; oliy ta’limdan keyingi ta’lim; kadrlarni qayta tayyorlash va ularning malakasini oshirish maktabdan tashqari ta’lim",
+      "maktabgacha ta’lim; boshlang‘ich va umumiy o‘rta; professional ta’lim; oliy ta’lim; oliy ta’limdan keyingi ta’lim; kadrlarni qayta tayyorlash va ularning malakasini oshirish maktabdan tashqari ta’lim"
+    ]
+  },
+  {
+    "q": "Ta’lim turlari Ta’lim tog‘risidagi qonuning nechanchi moddasida berilgan?",
+    "correct": "7-moddasida;",
+    "wrong": [
+      "5-moddasida;",
+      "12-moddasida;",
+      "20-moddasida;"
+    ]
+  },
+  {
+    "q": "Oʻzbekiston Respublikasining “Taʼlim toʻgʻrisida”gi Qonunining asosiy maqsad va vazifalari nimalardan iborat?",
+    "correct": "ta'lim sohasidagi munosabatlarni tartibga solishdan iborat.",
+    "wrong": [
+      "ta’lim sohasini tubdan takomillashtirish",
+      "komil insonni tarbiyalash",
+      "Bolalarga ta’lim-tarbiya berishga maxsus tayyorgarlik kasb egasi qilib tayyorlash"
+    ]
+  },
+  {
+    "q": "Malaka bu ...?",
+    "correct": "Ongli hatti-harakatning avtomatlashtirilgan, behato bajariladigan harakati",
+    "wrong": [
+      "Mehnat qilish jarayonida hosil bo‘lgan ko‘nikmalar natijasi hisoblanadi",
+      "Bilimlarni amalda bir necha bor qo‘llanilishi orqali sodir bo‘ladi",
+      "Insonning uzoq yillar davomida o‘zlashtira olgan bilimlar majmuasi"
+    ]
+  },
+  {
+    "q": "Jamoa rivojlanishining ikkinchi bosqichiga qanday xususiyat xos?",
+    "correct": "Jamoa faollari jamoa a’zolari oldiga ma’lum talablarni qо‘yadi.",
+    "wrong": [
+      "O‘qituvchi tomonidan pedagogik talablar qо‘yiladi.",
+      "O‘z-о‘zini boshqarishga о‘tiladi.",
+      "jamoaning har bir a’zosi о‘z oldiga jamoa manfaatiga oid talablarni qо‘yadi."
+    ]
+  },
+  {
+    "q": "Jamoa rivojlanishining qaysi bosqichida faqat pedagogik talablar qо‘yiladi?",
+    "correct": "I bosqichida.",
+    "wrong": [
+      "II bosqichida",
+      "III bosqichida.",
+      "IV bosqichida."
+    ]
+  },
+  {
+    "q": "Tarbiya metodlari nima?",
+    "correct": "Shaxsga tarbiyaviy ta’sir etish, uning hayoti va faoliyatini uyushtirish asosida unda ma’naviy-axloqiy tushuncha, e’tiqod va fazilatlarni tarkib toptirish usullari.",
+    "wrong": [
+      "Shaxsga tarbiyaviy ta’sir etish orqali uni har tomonlama kamol toptirish yо‘llari.",
+      "Shaxsning hayoti va faoliyatini uyushtirish asosida unda ma’naviy-axloqiy sifatlarni tarbiyalash usuli.",
+      "E’tiqod va fazilatlarni tarkib toptirish usullari."
+    ]
+  },
+  {
+    "q": "Ijtimoiy ongni shakllantiruvi metodlar guruhiga kiradigan metodlarni aniqlang?",
+    "correct": "Tushuntirish va uqtirish, namuna kо‘rsatish, suhbat, munozara.",
+    "wrong": [
+      "Pedagogik talab, о‘rganish, mashq qilish, tarbiyalavchi vaziyatlar, musobaqa.",
+      "Rag‘batlantirish va jazolash.",
+      "Javoblarning barchasi tо‘g‘ri."
+    ]
+  },
+  {
+    "q": "Qaysi qatorda rag‘batlantirish (xulq-atvorni tuzatish) metodlari guruhiga kiruvchi metodlar tо‘g‘ri berilgan?",
+    "correct": "Mukofotlash, tashakkurnoma yuborash, xatti-harakatlarni jamoa о‘rtasida taqdirlash, taxsinlash.",
+    "wrong": [
+      "Hikoya, tushuntirish, tanbeh",
+      "Mashq, musobaqadan chetlatish, nasihat.",
+      "Musobaqadan chetlatish, tushuntirish, hayfsan berish."
+    ]
+  },
+  {
+    "q": "Ta’lim ta’lim oluvchilar tomonidan zarur bilim, malaka va ko‘nikmalarni olishga qaratilgan bo‘lib, ularning nazariy qismi ta’lim tashkiloti negizida, amaliy qismi esa ta’lim oluvchining ish joyida amalga oshiriladigan ta’lim bu-?",
+    "correct": "dual ta’lim",
+    "wrong": [
+      "masofaviy ta’lim",
+      "ekstrnat ta’lim",
+      "inklyuziv ta’lim"
+    ]
+  },
+  {
+    "q": "Nazorat, tekshirish, baholash, statistik ma’lumotlar to‘plash, ularni tahlil qilish, dinamika, tendensiyalarni aniqlash, voqealarning keyingi rivojini taxminlashni o‘z ichiga oladi. Ushbu ta’rif qaysi javobning turlari haqida?",
+    "correct": "Tashxislash;",
+    "wrong": [
+      "Nazorat;",
+      "Baholash;",
+      "Tekshirish;"
+    ]
+  },
+  {
+    "q": "Nazorat qilish nima?",
+    "correct": "(ta’lim jarayonida) ta’lim oluvchining bilim, ko‘nikma va malakalari darajasini aniqlash, o‘lchash va baholash jarayonini anglatadi. Aniqlash va o‘lchash esa tekshirish deb ataladi.",
+    "wrong": [
+      "Ta’lim jarayonining muhim tarkibiy qismlaridan biri - nazorat va hisobga olishdir.",
+      "nazoratning tarkibiy qismi bo‘lib, uning asosiy didaktik vazifasi o‘qituvchi va o‘quvchilar o‘ rtasida aks aloqani ta’minlash, pedagog tomonidan o‘quv materialini o‘zlashtirish haqida obyektiv axborot olinishi hamda bilimlardagi kamchilik va nuqsonlarni o‘z vaqtida aniqlashdir.",
+      "ko‘nikma va malakalarni o‘quv dasturida ko‘rsatilgan etalon (ko‘rstakich, qolip, o‘lchagich)lar bilan solishtirishni aytamiz;"
+    ]
+  },
+  {
+    "q": "Ta’lim olganlikni nazorat qilish va tashxislash tamoyillariga qaysilar kiradi?",
+    "correct": "xolislik (obyektivlik), tizimlilik (sistemalilik), ko‘rgazmalilik (oshkoralik)",
+    "wrong": [
+      "ketma-ketlik, birlik, tizimlilik;",
+      "ko‘rgazmalilik (oshkoralik), ilmiylik;",
+      "Insonparvarlik, tushunarlilik, onglilik;"
+    ]
+  },
+  {
+    "q": "Agar: a) o‘quvchi o‘rganilgan mavzuni o‘zlashtirgan, lekin mustaqil tushuntirib berishda o‘qituvchining aniqlashtiruvchi savollariga ehtiyoj sezsa; b) savollarning mantiqiy tuzuilishini o‘zgartirib berganda, javob berishga qiynalsa; v) yozma ishda xatolari bor bo‘lsa. Bunday xolatda o‘quvchiga qanday baxo qo‘yiladi?",
+    "correct": "3 baxo;",
+    "wrong": [
+      "5 baxo;",
+      "2 baxo;",
+      "4 baxo;"
+    ]
+  },
+  {
+    "q": "agar: a) o‘quvchi o‘rganilgan mavzuning mohiyatini bilsa;   b) o‘qituvchining savollariga qiynalmasdan javob bera olsa; v) egallangan bilimlarni amaliyotda qo‘llay olsa; g) og‘zaki javob berishda jiddiy xatolarga yo‘l qo‘ymasdan, o‘qituvchining qo‘shimcha savollari bilan xatolarini to‘g‘rilay olsa hamda yozma ishda uncha jiddiy bo‘lmagan xatoga yo‘l qo‘ysa qo‘yiladi. Bunday xolatda o‘quvchiga qanday baxo qo‘yiladi?",
+    "correct": "4 baxo;",
+    "wrong": [
+      "2 baxo;",
+      "3 baxo;",
+      "5 baxo;"
+    ]
+  },
+  {
+    "q": "Monitoring tushunchasining ma’nosi qaysi javobda berilgan?",
+    "correct": "inglizcha atama bo‘lib, “uzluksiz kuzatish” degan ma’nosini anglatadi;",
+    "wrong": [
+      "lotincha atama bo‘lib, “uzluksiz kuzatish” degan ma’nosini anglatadi;",
+      "ruscha atama bo‘lib, “uzluksiz kuzatish” degan ma’nosini anglatadi;",
+      "o‘zbekcha atama bo‘lib, “uzluksiz kuzatish” degan ma’nosini anglatadi;"
+    ]
+  },
+  {
+    "q": "O‘quvchilarning bilim ko‘nikma va malakalarini tekshirishning bo‘g‘inlari keltirilgan javobni belgilang?",
+    "correct": "Bilimlarni oldindan aniqlash, joriy tekshirish, takroriy tekshirish, davriy tekshirish, yakuniy tekshirish va hisobga olish.",
+    "wrong": [
+      "Og‘zaki, test, yozma.",
+      "Yozma tekshirish, og‘zaki tekshirish, Amaliy topshiriqlarni bajarishga asoslangan tekshirish, Uy vazifalarini tekshirish.",
+      "Joriy nazorat, oraliq nazorat. Yakuniy nazorat."
+    ]
+  },
+  {
+    "q": "… - bu o‘qitishning muayyan bir davrida o‘quvchilar va o‘qituvchi faoliyatini umumlashtirib xulosalash. Usbu ta’rifning asosini toping?",
+    "correct": "Hisobga olish.",
+    "wrong": [
+      "Bilimlarni tekshirish.",
+      "Bilimlarni nazorat qilish.",
+      "Bilimlarni baholash."
+    ]
+  },
+  {
+    "q": "agar: a) o‘quvchi o‘rganilgan mavzu haqida tushunchaga ega, biroq mavzuni o‘zlashtirmagan, b) yozma ishda qo‘pol xatolarga yo‘l qo‘ysa qo‘yiladi. Bunday xolatda o‘quvchiga qanday baxo qo‘yiladi?",
+    "correct": "2 baxo;",
+    "wrong": [
+      "5 baxo;",
+      "3 baxo;",
+      "4 baxo;"
+    ]
+  },
+  {
+    "q": "Konstitutsiyani, davlat haqidagi ma’lumotni, fuqarolik, oila, mehnat haqidagi bilimlarni qaysi tarbiya turi yordamida o‘quvchilar ongiga sindirish mumkin?",
+    "correct": "Huquqiy tarbiya",
+    "wrong": [
+      "Aqliy tarbiya",
+      "Ma’naviy tarbiya",
+      "Axloqiy tarbiya"
+    ]
+  },
+  {
+    "q": "Pedagogik jarayonning mohiyati nimada?",
+    "correct": "Ta’lim va tarbiyaning birligi",
+    "wrong": [
+      "Faqat ta’lim",
+      "Faqat nazorat",
+      "Faqat rivojlanish"
+    ]
+  },
+  {
+    "q": "Jamoa tushunchasiga to‘g‘ri ta’rif:",
+    "correct": "Maqsadli faoliyat asosida birlashgan guruh",
+    "wrong": [
+      "Faqat o‘qituvchilar",
+      "Tasodifiy guruh",
+      "Faqat o‘quvchilar"
+    ]
+  },
+  {
+    "q": "Ekologik tarbiya vazifasi:",
+    "correct": "Tabiatga ongli munosabatni shakllantirish",
+    "wrong": [
+      "Siyosiy ongni rivojlantirish",
+      "Iqtisodiy bilim berish",
+      "Sportni rivojlantirish"
+    ]
+  },
+  {
+    "q": "Estetik tarbiya nimaga xizmat qiladi?",
+    "correct": "Go‘zallikni his qilishni rivojlantirishga",
+    "wrong": [
+      "Daromad olishga",
+      "Sportga",
+      "Texnikaga"
+    ]
+  },
+  {
+    "q": "Quyidagilardan qaysi biri og‘zaki metod hisoblanadi?",
+    "correct": "Suhbat",
+    "wrong": [
+      "Tajriba",
+      "Amaliy ish",
+      "Kuzatish"
+    ]
+  },
+  {
+    "q": "Shaxsning ijtimoiylashuvi nimani anglatadi?",
+    "correct": "Jamiyatga moslashish va unda faol ishtirok etish",
+    "wrong": [
+      "Faqat bilim olish",
+      "Yolg‘iz rivojlanish",
+      "Faqat o‘yin"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich ta’lim pedagogikasi fanining asosiy vazifasi nimadan iborat?",
+    "correct": "Ta’lim-tarbiya jarayonini ilmiy asosda tashkil etish",
+    "wrong": [
+      "Siyosiy bilim berish",
+      "Faqat nazorat qilish",
+      "Faqat metod o‘rgatish"
+    ]
+  },
+  {
+    "q": "Pedagogik tashxis (diagnostika) nimani anglatadi?",
+    "correct": "O‘quvchining bilim, ko‘nikma va rivojlanish darajasini aniqlash",
+    "wrong": [
+      "Faqat nazorat qilish",
+      "Faqat baho qo‘yish",
+      "Faqat dars o‘tish"
+    ]
+  },
+  {
+    "q": "Quyidagilardan qaysi biri tashxis etishning tarkibiy qismi hisoblanadi?",
+    "correct": "Nazorat, baholash, tahlil",
+    "wrong": [
+      "Rejalashtirish",
+      "Faqat o‘qitish",
+      "Faqat suhbat"
+    ]
+  },
+  {
+    "q": "Tashxis etishning obyektivligi nimani anglatadi?",
+    "correct": "Adolatli va xolis baholash",
+    "wrong": [
+      "Subyektiv baho",
+      "Faqat o‘qituvchi fikri",
+      "Tasodifiy baho"
+    ]
+  },
+  {
+    "q": "Oraliq nazorat nimani aniqlaydi?",
+    "correct": "Ma’lum bosqichdagi o‘zlashtirish darajasini",
+    "wrong": [
+      "Dars boshlanishini",
+      "Faqat davomadni",
+      "Faqat intizomni"
+    ]
+  },
+  {
+    "q": "Yakuniy nazoratning maqsadi:",
+    "correct": "Umumiy o‘zlashtirish darajasini aniqlash",
+    "wrong": [
+      "Har kuni baho qo‘yish",
+      "Faqat yozma ish",
+      "Faqat test"
+    ]
+  },
+  {
+    "q": "O‘qituvchi darsda yangi mavzuni tushuntirib, keyin o‘quvchilarga mashqlar bajarishni topshirdi.",
+    "correct": "Og‘zaki va amaliy",
+    "wrong": [
+      "Ko‘rgazmali va nazorat",
+      "Amaliy va test",
+      "Muammoli va nazorat"
+    ]
+  },
+  {
+    "q": "Ko‘rgazmalilik metodining pedagogik ahamiyati nimada?",
+    "correct": "Bilimlarni ko‘rish orqali aniq va mustahkam o‘zlashtirish",
+    "wrong": [
+      "O‘quvchilarni baholash",
+      "Faqat eshitish orqali o‘rganish",
+      "Nazoratni kuchaytirish"
+    ]
+  },
+  {
+    "q": "Ta’lim metodlarini tanlash qaysi omillarga bog‘liq?",
+    "correct": "Mavzu mazmuni, o‘quvchi yoshi va didaktik maqsadga",
+    "wrong": [
+      "Faqat o‘qituvchi xohishiga",
+      "Faqat darslikka",
+      "Faqat mavzuga"
+    ]
+  },
+  {
+    "q": "Jamoa rivojlanishining muhim belgisi qaysi?",
+    "correct": "O‘zaro yordam va mas’uliyatning shakllanishi",
+    "wrong": [
+      "Har kim o‘zicha ishlashi",
+      "Faqat o‘qituvchi nazorati",
+      "Passivlik"
+    ]
+  },
+  {
+    "q": "O‘qituvchi darsdan tashqari o‘quvchilar bilan fan to‘garagi tashkil qildi.",
+    "correct": "Yordamchi ta’lim shakli",
+    "wrong": [
+      "Asosiy shakli",
+      "Nazorat shakli",
+      "Individual ta’lim"
+    ]
+  },
+  {
+    "q": "O‘qituvchi sinfda barcha o‘quvchilar bilan bir vaqtda bir xil mavzuni o‘rganmoqda.",
+    "correct": "Sinf-dars tizimi",
+    "wrong": [
+      "Individual",
+      "Mustaqil ta’lim",
+      "Masofaviy ta’lim"
+    ]
+  },
+  {
+    "q": "Ta’limni tashkil etishning asosiy shakli qaysi?",
+    "correct": "Maruza-seminar",
+    "wrong": [
+      "O‘quvchilarning mustaqil uy ishlari.",
+      "Ekskursiya",
+      "To‘garak"
+    ]
+  },
+  {
+    "q": "O‘zbekiston Respublikasining Ta’lim to‘g‘risida”gi Qonuniga ko‘ra ta’lim sohasidagi davlat siyosatining asosiy prinsipi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Ta’limning uzluksizligi va izchilligi",
+    "wrong": [
+      "Ta’limning faqat davlat tomonidan boshqarilishi",
+      "Faqat oliy ta’limni rivojlantirish",
+      "Ta’limni tijoratlashtirish"
+    ]
+  },
+  {
+    "q": "Turkiy tildagi yaratilgan dastlabki ta’limiy-axloqiy asar qaysi?",
+    "correct": "Qutadg‘u bilig;",
+    "wrong": [
+      "Devoni lug‘atit turk;",
+      "Xibbat ul- Xaqoyiq;",
+      "Mahbub ul qulub;"
+    ]
+  },
+  {
+    "q": "Tarbiyaning asosiy belgilaridan biri, bolaga yaxshi ism qo‘yish, ilmu adab o‘rgatish, ota-onaga, umuman, kattalarga hurmat hissini singdirishdan iboratligini uqtirgan alloma kim?",
+    "correct": "Alisher Navoiy;",
+    "wrong": [
+      "Al Beruniy",
+      "Al Farobiy;",
+      "Ahmad Yassaviy;"
+    ]
+  },
+  {
+    "q": "Navoiyning “Hayrat ul-abror” asarida odob-ahloqqa doir asosiy g‘oyalar aks etgan javobni ko‘rsating?",
+    "correct": "Adolat, muruvvat, saxiylik, odob, kamtarlik, qanoat, insof, ishq ,vafo;",
+    "wrong": [
+      "Sevgi, kamtarlik, oliyjanoblik, odobiylik;",
+      "Axloq, qanoat, sabr, toqat;",
+      "To‘g‘rilik, rostgo‘ylik, mehr;"
+    ]
+  },
+  {
+    "q": "A.Navoiyning «Mahbub- ul -qulub» asarida o‘qituvchi odobiga doir qanday talablar bayon etiladi?",
+    "correct": "Mudarris ota- onasining mansabi, boyligiga qarab bolaga muomala qilmasligi lozim, mudarris bolaga bilgan narsalarini o‘rgatishi, bilmagan ilmlarini o‘rgatishga urinmasligi kerak.",
+    "wrong": [
+      "Muallim yaramas ishlardan, nopoklikdan yiroq bo‘lishi kerak",
+      "Mudarrislar yomon ishlardan, fisqu fasoddan o‘zlarini tiya bilishlari kerak",
+      "O‘qitishni, tarbiyalashni bilmagan mudarris bolalardan uzoqda yurishi kerak"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich ta’lim pedagogika tarixi fanining maqsadini ayting?",
+    "correct": "Eng qadimgi davrlardan to hozirgi kungacha turli tarixiy darlarda maktab, tarbiya va pedagogik fikrlar rivojini tizimli yondashuv asosida o‘rganishdan iborat.",
+    "wrong": [
+      "Tarbiya, maktab, maorif va pedagogika sohasidagi ilg‘or fikrlarni",
+      "O‘tmish mutafakkirlarning talim-tarbiyaga oid ilmiy merosini;",
+      "Talim-tarbiyaning mazmuni va metodlarini;"
+    ]
+  },
+  {
+    "q": "Movarounahrdagi dastlabki diniy maktablar tizimi?",
+    "correct": "Boshlang‘ich diniy maktab, otinoyilar maktabi, qorixona, daloilxona, madrasa;",
+    "wrong": [
+      "Madrasa, machitlar qoshidagi maktab, qorixona,",
+      "Madrasa, boshlang‘ich diniy maktab",
+      "Daloilxona, qorixona, boshlang‘ich maktab"
+    ]
+  },
+  {
+    "q": "Muhokamaning aniq va ravshan bo‘lishi uchun uch narsa –isobot, istiqomat, sur’at zarurligini kim o‘z davrida ta’kidlagan?",
+    "correct": "Abdurauf Fitrat",
+    "wrong": [
+      "Munavvarqori Abdurashidxonov",
+      "Abduqodir Shakuriy",
+      "Z.M.Bobur"
+    ]
+  },
+  {
+    "q": "Ma’lumki, 1917 y. 9-14 may kunlari Toshkentda o‘qituvchilarning 1 o‘lka quriltoyi bo‘lib o‘tgan edi. Mazkur quriltoyda rus-tuzem maktablarining yaroqsiz ekanligini isbotlab, milliy maktab g‘oyasini ilgari surgan ziyolilar?",
+    "correct": "S.Maqsudov, F.Egorov, A.Zimin",
+    "wrong": [
+      "A.Fitrat, F.Egorov, A.Zimin",
+      "M.Behbudiy, A.Avloniy;",
+      "Kamol Shams, M.Behbudiy;"
+    ]
+  },
+  {
+    "q": "Markaziy Osiyoda birinchi bo‘lib ta’lim va tarbiyatusunchalariga ta’rif bergan alloma...?",
+    "correct": "Al-Farobiy",
+    "wrong": [
+      "Al-Beruniy;",
+      "Al-Farg‘oniy",
+      "Al-Xorazmiy;"
+    ]
+  },
+  {
+    "q": "Markaziy Osiyo mutafakkirlaridan qaysi alloma birinchi marta bolalarni jamoa bo‘lib maktabda o‘qitishning ahamiyatini ilmiy asoslab bergan?",
+    "correct": "Ibn Sino;",
+    "wrong": [
+      "Beruniy;",
+      "Farobiy;",
+      "Al Xorazmiy;"
+    ]
+  },
+  {
+    "q": "Kaykovusning «Qobusnoma» asari necha bobdan iborat?",
+    "correct": "44;",
+    "wrong": [
+      "65",
+      "32",
+      "34"
+    ]
+  },
+  {
+    "q": "Inson kamolotida uch narsa «irsiyat, muhit, tarbiya» muhim rol o‘ynaydi degan fikrni ilk bor ilgari surgan sharq olimi?",
+    "correct": "Beruniy;",
+    "wrong": [
+      "Forobiy;",
+      "Ibn Sino;",
+      "Al Motrudiy;"
+    ]
+  },
+  {
+    "q": "Ibtidoiy jamoa tuzumi davridagi kishilar, ularning bir-biriga, atrof-muhitga, kasb-koriga munosabat borasidagi ilk fikr va tasavvurlari ifodalangan manba?",
+    "correct": "«Avesto»;",
+    "wrong": [
+      "Yunon tarixchisi Geradodning «Tarix»kitobi;",
+      "Ahmoniylar hukumdori Doro 1 ning «Behustun yozuvlari»;",
+      "«Qur’oni Karim»;"
+    ]
+  },
+  {
+    "q": "Isrof - o‘rinsiz va foydasiz ishlarga pul va mol sarf qilishdir. Isrof natijasida yo‘qchilik, keyin har kimning mol, davlatiga ta’ma va xasad qilish kelib chiqadi. Ushbu pandning muallifi kim?",
+    "correct": "Abdulla Avloniy",
+    "wrong": [
+      "Alisher Navoiy.",
+      "Abduraxmon Jomiy.",
+      "Davoniy"
+    ]
+  },
+  {
+    "q": "“Rahbari najot”, “Munozara”, “Sayyohi hindi bayoni” asarlarining muallifini aniqlang?",
+    "correct": "Abdurauf Fitrat",
+    "wrong": [
+      "Abduqodir Shakuriy",
+      "Abdulla Avloniy",
+      "Munavvarqori Abdurashidxonov"
+    ]
+  },
+  {
+    "q": "Quyidagi fikr  qaysi  faylasufga  tegishli.“Fikr  dunyoni  boshqaradi”?",
+    "correct": "Platon.",
+    "wrong": [
+      "Geraklit.",
+      "Pifagor",
+      "Beruniy."
+    ]
+  },
+  {
+    "q": "‘‘Inson o‘z mablag‘ini bilishi kerak. Pul sarflashda qizg‘anchiqlik qilish xasislikka olib keladi. Pullarni rejasiz ishlanish esa insonni beboshlikka yetaklaydi” degan fikr kim tomonidan aytilgan?",
+    "correct": "Al-Farobiy",
+    "wrong": [
+      "Inb Sino",
+      "Muhammad ibn Muso al-Xorazmiy",
+      "Al-Beruniy."
+    ]
+  },
+  {
+    "q": "A. Avloniyning  “Turkiy  guliston  yohud  ahloq”asari  qanday  asar  hisoblanadi?",
+    "correct": "Didaktik  asar",
+    "wrong": [
+      "Sarguzasht asar",
+      "Tarixiy  asar",
+      "Falsafiy  asar"
+    ]
+  },
+  {
+    "q": "Kishikim hayotdan olmasa ta’lim",
+    "correct": "A.A. Rudakiy.",
+    "wrong": [
+      "A.Navoiy",
+      "Z.Bobur",
+      "Ibn Sino"
+    ]
+  },
+  {
+    "q": "“Mening saltanatimning u chetidan bu chetiga, boshida oltin to‘ldirilgan laganni yosh bola ko‘tarib o‘tsa ham, uning mulkiga hech kimsa dahl eta olmaydi” degan so‘zlar muallifi kim?",
+    "correct": "A.Temur",
+    "wrong": [
+      "Z.Bobur",
+      "M.Ulug‘bek",
+      "A.Avloniy"
+    ]
+  },
+  {
+    "q": "Odamlarning o‘zaro do‘stona munosabatda bo‘lishlarida millati, nasl – nasabi emas, balki ilm – ma’rifatli, aqlli va zakovatli bo‘lishi muhimdir?",
+    "correct": "Zamaxshariy",
+    "wrong": [
+      "A.Avloniy",
+      "Behbudiy",
+      "M.Ulug‘bek"
+    ]
+  },
+  {
+    "q": "Muhammad Sodiq Qoshg‘ariyning “Odob as- solihin” asarining ma’nosi",
+    "correct": "”Yaxshi kishilar odobi “",
+    "wrong": [
+      "“Bilimning eshigi alifbe”",
+      "Nasihat kitobi",
+      "“Pandnoma”"
+    ]
+  },
+  {
+    "q": "Salomlashish va ruhsat so‘rash odobi, muloqot odobi kabi botiniy va zohiriy qoidalar qaysi asardan  olingan?",
+    "correct": "“Odob as-solihin”",
+    "wrong": [
+      "”Pandnoma”",
+      "“Sabotul ojizin”",
+      "“To‘rt kitob”"
+    ]
+  },
+  {
+    "q": "Quyidagi so`zlar qaysi allomaga tegishli? Ustoz – muallimsiz qolsa bir zamon, Nodonlikdan qora bo`lurdi jahon.",
+    "correct": "A. Jomiy.",
+    "wrong": [
+      "A. Avloniy.",
+      "K.D. Ushinskiy.",
+      "Y.A. Komenskiy."
+    ]
+  },
+  {
+    "q": "O‘tgan asrlarda yaratilan qaysi asarlarni biz ta’lim tarbiya, odob-axloqqa bevosita dahldor deya olamiz?",
+    "correct": "“Qutadg‘u bilig”, ”Devonu lug‘atit turk”",
+    "wrong": [
+      "“Latofatnoma”, Muhabbatnoma”",
+      "“Kanz ul-haqoyiq”",
+      "“Dahnoma”"
+    ]
+  },
+  {
+    "q": "Pedagogikaning fan sifatida shakllanishida kimlarning hissasi katta?",
+    "correct": "Farobiy, Yan Amos Kamenskiy, A.Avloniy.",
+    "wrong": [
+      "Yan Amos Komenskiy, Ushinskiy",
+      "Yan Amos Kamenskiy, Farobiy",
+      "Farobiy, Beruniy"
+    ]
+  },
+  {
+    "q": "Payg‘ambarimiz Muhammad alayhisalom «Kishi o‘z bolasiga .. .. .. .. ko‘ra afzalroq narsa ato etolmaydi» deydilar (hadis 375). Nuqtalar o‘rniga mos so‘zni qo‘yib davom ettiring?",
+    "correct": "Odobdan",
+    "wrong": [
+      "Aqldan",
+      "Ma’rifat",
+      "Qo‘shiqdan"
+    ]
+  },
+  {
+    "q": "“Avesto” yaratilganligining 2700 yilligi butun dunyoda qachon va qaysi oyda nishonlandi?",
+    "correct": "2001 yil oktyabr oyida.",
+    "wrong": [
+      "2003 yil oktyabr oyida",
+      "2000 yil noyabr oyida",
+      "2007 yil sentyabr oyida"
+    ]
+  },
+  {
+    "q": "Namunali ta’lim” haqidagi risola muallifi kim?",
+    "correct": "Farobiy",
+    "wrong": [
+      "Beruniy",
+      "Buxoriy",
+      "Arastu"
+    ]
+  },
+  {
+    "q": "Kim ta’lim olish uchun eng qulay davr bolalik ekanini ta’kidlaydi?",
+    "correct": "YA.Komenskiy",
+    "wrong": [
+      "Babanskiy",
+      "Skatin",
+      "Abdulla Avloniy"
+    ]
+  },
+  {
+    "q": "“Izchillikka rioya qilib o‘qitish lozim, toki bugun o‘rganilgan ilmlar kecha o‘rganilganlarni mustahkamlasin, erta o‘rganiladiganlarga zamin hozirlasin” fikrlar muallifi kim?",
+    "correct": "Y.A.Komenskiy",
+    "wrong": [
+      "Beruniy",
+      "Arastu",
+      "Ibn Sino"
+    ]
+  },
+  {
+    "q": "XX-XXI asr o‘zbek Pedagogika tarixi faniga o‘zining munosib hissasini qo‘shgan olimlardan aynan kimlar?",
+    "correct": "M.Xayrullaev, S.Nishanova, J.Hasanbayev, K.Xoshimov,",
+    "wrong": [
+      "M.Toxtoxadjaeva, F.Yuzlikaev, J.Hasanbaev, K.Xoshimov.",
+      "Toxtoxadjaeva, F.Yuzlikaev, J.Hasanbaev, K.Xoshimov.",
+      "M.Xaydarov, M.Usmanbaeva, O.Musurmonova, S.Karimova."
+    ]
+  },
+  {
+    "q": "Ibn Sino ta’limni rivojlantirishda qaysi prinsipni ma’qul topgan?",
+    "correct": "Ko‘rsatmalilik prinsipiga",
+    "wrong": [
+      "Ilmiylik prinsipiga",
+      "Onglilik prinsipiga",
+      "Faollik prinsipiga"
+    ]
+  },
+  {
+    "q": "Tejamkorlik haqidagi ushbu fikr qaysi buyuk allomaning asaridan keltirilgan? “Inson o‘z mablag‘ini to‘g‘ri sarflashni bilishi kerak. Pul sarflashda qizg‘anchiqlik qilish xasislikka olib keladi. Pullarni rejasiz ishlatish esa insonni beboshlikka yetaklaydi”?",
+    "correct": "Abu Nasr al-Farobiy ning “Baxt-saodatga erishuv haqida” asarida.",
+    "wrong": [
+      "Beruniyning “Hindiston” asarida",
+      "Zahiriddin Muhammad Boburning “Boburnoma” asaridan",
+      "Abu Nasr Al-Farobiyning “Fozil odamlar shahri” asarida."
+    ]
+  },
+  {
+    "q": "X asrda Xorazm Ma’mun akademiyasi bilan Bag‘doddagi akademiyaning farqi nimalarda aks etgan?",
+    "correct": "Bag‘doddagi akademiya faoliyatni tarjimaga bag‘ishladi Yunon ilmini arab tiliga tarjima qilish bilan shug‘ullanadi,",
+    "wrong": [
+      "Xorazm Ma’mun akademiyasi faoliyatni tabobatga hamda aniq fanlarni o‘zlashtirishga bag‘ishladi.",
+      "Ikkilasida ham faolit bir xil bo‘lib ularga tarjima bilan shug‘ullanishgan.",
+      "Deyarli bir xil faoliyat olib borgan ko‘proq tabobat bilan shug‘ullanishgan"
+    ]
+  },
+  {
+    "q": "Quyida tejamkorlik haqidagi fikrlar qaysi allomaga tegishli? “Oila a’zolari kunlik oziq-ovqatlar uchun yetarli mahsulotlarni oldindan tejamkorlik bilan sarf qilishi kerak. Ota-ona uvol qilish gunohligini farzandiga yoshligidan nasihat yo‘li bilan o‘rgatadi”?",
+    "correct": "Abu Ali Ibn Sino.",
+    "wrong": [
+      "Abu Rayhon Beruniy.",
+      "Alisher Navoiy.",
+      "Abu Nasr Farobiy"
+    ]
+  },
+  {
+    "q": "Eng qadimgi madaniy-ma’rifiy yodgorliklarga nimalar kiradi?",
+    "correct": "Avesto, urxun-enasoy, bitiktoshlar.",
+    "wrong": [
+      "Zardo‘shtiylik ta’limoti",
+      "Xalq og‘zaki ijodi",
+      "Dastlabki tosh qurollari, mehnat qurollari"
+    ]
+  },
+  {
+    "q": "“Daraxtning yetukligi uning mevasi bilan bo‘lganidek, insoning barcha xislatlari ham axloq bilan yakunlanadi”. Ushbu so‘zlar muallifi kim?",
+    "correct": "Beruniy.",
+    "wrong": [
+      "Forobiy.",
+      "Ibn Sino.",
+      "Al-Farg‘oniy."
+    ]
+  },
+  {
+    "q": "Yangi usul maktablari uchun yozilgan «Kitob ul-atfol» («Bolalar uchun kitob») nomli qo‘llanma muallifi.",
+    "correct": "Behbudiy",
+    "wrong": [
+      "Shakuriy;",
+      "Fitrat;",
+      "Siddiqiy;"
+    ]
+  },
+  {
+    "q": "Ya.A. Komenskiyning «Buyuk didaktika» asari nechanchi yilda yozilgan?",
+    "correct": "1632 y;",
+    "wrong": [
+      "1631 y;",
+      "1633 y;",
+      "1639 y;"
+    ]
+  },
+  {
+    "q": "XX asr boshlarida Samarqandda dehqon va hunarmand bolalar uchun maktab ochgan ma’rifatparvar…?",
+    "correct": "Saidahmad Siddiqiy;",
+    "wrong": [
+      "Abdulla Avloniy;",
+      "Munavvar Qori Abdurashidxonov",
+      "Anbar Otin;"
+    ]
+  },
+  {
+    "q": "Sharq «uyg‘onish davri»ga oid ilm-fan rivojlanishidagi uch yo‘nalish bu-?",
+    "correct": "Matematika-tabiiyot, ijtimoiy-iqtisodiy, ta’limiy-axloqiy;",
+    "wrong": [
+      "Ta’limiy-falsafiy, ta’limiy-ahloqiy, matematika-tabiyot;",
+      "Ta’limiy-ahloqiy, ijtimoiy-gumanitar, ta’limiy-ahloqiy;",
+      "Matematika-tabiyot, ijtimoiy-falsafiy, ta’limiy-ahloqiy;"
+    ]
+  },
+  {
+    "q": "Hibbat ul-haqoyiq asarining muallifi kim?",
+    "correct": "Ahmad Yugnakiy;",
+    "wrong": [
+      "Yusuf Xos Xojib;",
+      "Alisher Navoiy;",
+      "Kaykovus"
+    ]
+  },
+  {
+    "q": "Hadis ilmining yaratilishida oltin davr qaysi asrga to‘g‘ri keladi?",
+    "correct": "VIII-IX asrlar;",
+    "wrong": [
+      "VII asr;",
+      "XV asr;",
+      "XVI asr;"
+    ]
+  },
+  {
+    "q": "Hadis ilmida «Sahih» yo‘nalishining asoschisi kim?",
+    "correct": "Imom al-Buxoriy",
+    "wrong": [
+      "Abu Iso at-Termiziy",
+      "Imom Ahmad an- Nasoiy",
+      "Imom Abu Dovut Sulaymon Sijistoniy"
+    ]
+  },
+  {
+    "q": "Har kishining dunyoda oromi joni tarbiya, Balki oxirida erur dorulamoni tarbiyat”. Quyidagi misralarning muallifini toping?",
+    "correct": "A. Avloniy",
+    "wrong": [
+      "M. Behbudiy",
+      "H.H. Niyoziy",
+      "A. Fitrat"
+    ]
+  },
+  {
+    "q": "XIX asrning oxirida jadidlar qaysi shaharlarda o‘z gazetalarini chiqara boshladilar?",
+    "correct": "Toshkent, Samarqand, Buxoro",
+    "wrong": [
+      "Samarqand, Buxoro, Chorjo‘y;",
+      "Toshkent, Buxoro, Termiz;",
+      "Buxoro, Marv, Urganch;"
+    ]
+  },
+  {
+    "q": "Farobiyning qaysi asarida davlat rahbarini o‘n ikki fazilati ko‘rsatiladi?",
+    "correct": "«Fozil odamlar shahri» (Fozil shahar aholisi);",
+    "wrong": [
+      "«Aql to‘g‘risida risola;",
+      "«Musiqa to‘g‘risida trakt",
+      "Ruh madaniyati haqida risola»;"
+    ]
+  },
+  {
+    "q": "O‘rta Osiyodagi ilmiy pedagogik asarlarning paydo bo‘lishi qaysi tarixiy davrga to‘g‘ri keladi?",
+    "correct": "XIII-XV asrlar;",
+    "wrong": [
+      "IX- XII asrlar;",
+      "XVI-XIX asrlar;",
+      "XVII-XVIII asrlar;"
+    ]
+  },
+  {
+    "q": "“Rahnomai savod” deb atalgan alifbe tuzgan jadid namoyondasini aniqlang?",
+    "correct": "Abduqodir Shakuriy",
+    "wrong": [
+      "Munavvarqori Abdurashidxonov",
+      "Abdurauf Fitrat",
+      "Abdulla Avloniy"
+    ]
+  },
+  {
+    "q": "O‘quvchini ilk davridanoq kasb-hunarga yo‘naltirish, ularni o‘z Vataniga faxr va iftixor ruhida tarbiyalash quyidagi qaysi davlatlar pedagogikasida asosiy o‘rin egallaydi?",
+    "correct": "AQSh;",
+    "wrong": [
+      "Yaponiya;",
+      "Germaniya;",
+      "Fransiya;"
+    ]
+  },
+  {
+    "q": "Navoiyning “Hayrat ul-abror” asarida odob-ahloqqa doir asosiy g‘oyalar aks etgan javobni ko‘rsating?",
+    "correct": "Adolat, muruvvat, saxiylik, odob, kamtarlik, qanoat, insof, ishq ,vafo;",
+    "wrong": [
+      "Sevgi, kamtarlik, oliyjanoblik, odobiylik;",
+      "Axloq, qanoat, sabr, toqat;",
+      "To‘g‘rilik, rostgo‘ylik, mehr;"
+    ]
+  },
+  {
+    "q": "Qachon Yaponiyada boshlang‘ich ta’lim majburiy 6 yillikka aylantirildi?",
+    "correct": "1908 y;",
+    "wrong": [
+      "1905 y;",
+      "1910 y;",
+      "1915 y;"
+    ]
+  },
+  {
+    "q": "1915 yili kim «Alifbe ta’limi» kitobini yozadi?",
+    "correct": "Ismatilla Rahmatillayev",
+    "wrong": [
+      "Abduqodir Shakuriy",
+      "Munavvar Qori Abdurashidxonov",
+      "Abdulla Avloniy"
+    ]
+  },
+  {
+    "q": "«Usuli savtiya»ning asoschilaridan  biri sifatida shuhrat topgan shaxs kim?",
+    "correct": "Aziziy",
+    "wrong": [
+      "Avloniy",
+      "Niyoziy",
+      "Ismatilla Rahmatillayev"
+    ]
+  },
+  {
+    "q": "Vatan – bu millatning rang – barang madaniyati, ilmu fani, tili, dini, fe’l – atvori, urf –odat va an’analaridir.  Bu kimni fikri?",
+    "correct": "Fitrat",
+    "wrong": [
+      "Behbudiy",
+      "Avloniy",
+      "Niyoziy"
+    ]
+  },
+  {
+    "q": "Boshingga qilich kelsa-da, faqat rost so‘zla.",
+    "correct": "Amir Temur",
+    "wrong": [
+      "Mirzo Ulug‘bek",
+      "Husayn Voiz Koshfiy",
+      "Husayn Baqaro"
+    ]
+  },
+  {
+    "q": "Sharq  uyg‘onish davri qaysi davrlarni o‘z ichiga oladi?",
+    "correct": "IX- XVI asrlarni",
+    "wrong": [
+      "VIII- XII asrlarni",
+      "XI-XIII asrlarni",
+      "IX-XIII asrlarni"
+    ]
+  },
+  {
+    "q": "“Baytul hikma” (Donishmadlar uyi) qaysi shaharda tashkil etilgan?",
+    "correct": "Bag‘dod",
+    "wrong": [
+      "Shom",
+      "Suriya",
+      "Basra"
+    ]
+  },
+  {
+    "q": "Jahon ilmida “Muallimi soniy” (“Ikkinchi muallim”) nomiga musharraf bo‘lgan donishmand kim?",
+    "correct": "Abu Nasr Farobiy;",
+    "wrong": [
+      "Imom Al-Buxoriy;",
+      "Konfutsiy;",
+      "Imom At-Termiziy;"
+    ]
+  },
+  {
+    "q": "Har bir kishi jamiyatga munosib bo`lib kamol topmog`i kerak. Buning uchun, u tug`ilgan kunidan boshlab zarur tarbiyani olmog`i lozim. Ushbu fikr muallifi kim?",
+    "correct": "Yusuf Xos Hojib",
+    "wrong": [
+      "Kaykovus",
+      "A.Donish",
+      "Z.Bobur"
+    ]
+  },
+  {
+    "q": "Bilim kimda bo‘lsa, buyuklik bo‘lur,",
+    "correct": "Yusuf Xos Xojib “Qutadg‘u bilik”",
+    "wrong": []
+  },
+  {
+    "q": "Turkiston o‘lkasida XVIII-XIX asrlarda o‘quvchilar dastlabki o‘qish ko‘nikmalarini egallaganlaridan so‘ng nimani o‘qishni boshlaganlar?",
+    "correct": "Haftiyak”",
+    "wrong": [
+      "”Chor- kitob”",
+      "”Sabotul ojizin”",
+      "Nasihat kitobi"
+    ]
+  },
+  {
+    "q": "Eng qadimgi madaniy boyliklarimizni o‘rganishda qanday guruhlarga ajratilgan manbalarga tayanamiz?",
+    "correct": "Arxeologik qazilma natijasida topilgan ko‘rgazmali ashyolar",
+    "wrong": [
+      "Xalq og‘zaki ijodi materiallari va yozma manbalar.",
+      "Hamma javob to‘g‘ri",
+      "Buyuk allomalarning ijodiy merosi."
+    ]
+  },
+  {
+    "q": "Ikkinchi bitiktosh –Bilgaxoqon bitigi nima sababdan o‘rnatilgan?",
+    "correct": "Kultegin sharafiga",
+    "wrong": [
+      "Bilga xoqon sharafiga",
+      "Eltarish xoqon sharafiga",
+      "Kuntug‘mish sharafiga"
+    ]
+  },
+  {
+    "q": "Juvonmardlik yo‘lini tanlagan yoshlarga quyidagilarni yani «ko‘zni yomon narsadan, qulni yomon ishdan» tavsiya etgan alloma?",
+    "correct": "Kaykovus;",
+    "wrong": [
+      "Yusuf xos hojib;",
+      "Mahmud Qoshg‘oriy;",
+      "Mar Az-Zamaxshariy;"
+    ]
+  },
+  {
+    "q": "Pedagogika tarixini o‘rganish manbalari?",
+    "correct": "arxeologik yodgorliklar; qo‘lyozmalar, xalq og‘zaki ijodi, adabiy yodgorliklar, hujjatlar, badiiy adabiyot, memuarlar, sharq va g‘arb mutafakkirlarining asarlari",
+    "wrong": [
+      "xalq og‘zaki ijodi; adabiy yodgorliklar, hujjatlar, badiiy adabiyot:",
+      "hujjatlar; badiiy adabiyot; memuarlar; arxeologik yodgorliklar;",
+      "Sharq va G‘arb mutafakkirlarining asarlari; xalq og‘zaki ijodi, adabiy yodgorliklar;"
+    ]
+  },
+  {
+    "q": "VII asrdan XIV asrning birinchi yarmigacha O‘rta Osiyoda bir nechta turdagi ta’lim muassasalari?",
+    "correct": "maktab, madrasa, qorixona, daloilxona",
+    "wrong": [
+      "maktab,",
+      "maktab, texnikum",
+      "qorixona, daloilxona;"
+    ]
+  },
+  {
+    "q": "«Niso» surasining qaysi oyatida «Ayollarga yaxshi muomalada bo‘linglar», deya nozil qilingan. Shu bilan bir qatorda ayollarning erlari oldidagi burchlari ham ko‘rsatib berilgan?",
+    "correct": "21-oyatida;",
+    "wrong": [
+      "25-oyatida;",
+      "121-oyatida;",
+      "128-oyatida;"
+    ]
+  },
+  {
+    "q": "Niso surasining qaysi oyatida «Yaxshi ayollar o‘z erlariga itoat qilgan xotinlar, erlarining mollarini va o‘z nomuslarini nobudlik va begonalar qo‘lidan himoya qiladiganlar, - deb madh etiladi?",
+    "correct": "34-oyatida;",
+    "wrong": [
+      "128-oyatida;",
+      "21-oyatida;",
+      "33-oyaida;"
+    ]
+  },
+  {
+    "q": "“Fozil odamlar shaxri” to‘g‘risida kabi asarlar muallifi kim?",
+    "correct": "Al Farobiy;",
+    "wrong": [
+      "Alisher Navoiy;",
+      "Ahmad Yassaviy;",
+      "Al Beruniy"
+    ]
+  },
+  {
+    "q": "Og‘lim senga qoldirgim og‘it",
+    "correct": "Devonu lug‘atit turk;",
+    "wrong": [
+      "Tarix;",
+      "Qutadgu bilik;",
+      "Fozil odamlar shaxri."
+    ]
+  },
+  {
+    "q": "Xorazm Ma’mun akademiyasi (Donishmandlar uyi) asoschisi kim?",
+    "correct": "Al Ma’mun;",
+    "wrong": [
+      "Al Xorazmiy;",
+      "Al Farobiy;",
+      "Al Beruniy"
+    ]
+  },
+  {
+    "q": "Tiling bekta tutgi’il, tishing sinmasun,",
+    "correct": "Hibat ul haqoyiq.",
+    "wrong": [
+      "Tarix;",
+      "Devonu lug‘atit turk;",
+      "Qutadgu bilik;"
+    ]
+  },
+  {
+    "q": "Sog‘lik tilasang, ko‘p ema,",
+    "correct": "A.Navoiy",
+    "wrong": [
+      "Z.M.Bobur",
+      "A.Temur",
+      "M. Ulug‘bek"
+    ]
+  },
+  {
+    "q": "... o‘qituvchilik «yer yuzidagi har qanday kasbdan ko‘ra yuqoriroq turadigan juda faxrli kasb» ekanligini  qaysi pedagog olim ta’kidlagan?",
+    "correct": "Y.A.Komenskiy;",
+    "wrong": [
+      "A.S.Makarnko;",
+      "V.A.Suxomlenkiy;",
+      "Adolf Disterveg"
+    ]
+  },
+  {
+    "q": "Muxammad Sodiq Qoshg‘ariyning “Odob as-Solihin” asari necha bobdan iborat?",
+    "correct": "7",
+    "wrong": [
+      "10",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "q": "Muallim bu “Ma’naviy padar” iborasi qaysi allomaning fikriga mansub?",
+    "correct": "Davoniy;",
+    "wrong": [
+      "Yusuf Xos Hojib;",
+      "Kaykovus;",
+      "Voiz Koshifiy;"
+    ]
+  },
+  {
+    "q": "Mehnat insonni uch narsadan saqlaydi, Birinchisi yurak siqilishidan, ikkinchisi muhtojlikdan, uchinchisi…nimadan saqlaydi ?",
+    "correct": "Axloqiy buzilishdan",
+    "wrong": [
+      "Ochlikdan",
+      "Nochorlikdan",
+      "Kambag‘allikdan"
+    ]
+  },
+  {
+    "q": "XIX asrlarda ilk marta qaysi joylarda maktablar ochilgan?",
+    "correct": "Buxoro, Samarqand, Toshkent, Farg‘ona",
+    "wrong": [
+      "Andijon, Samarqand, Buxoro",
+      "Qashqadaryo, Toshkent, Jizzax",
+      "Toshkent, Xorazm, Farg‘ona."
+    ]
+  },
+  {
+    "q": "“Geodeziya, Qadimgi xalqlardan qolgan yodgorliklar”, “Mineralogiya” asarlarining muallifini aniqlang?",
+    "correct": "Al Beruniy",
+    "wrong": [
+      "Abdurauf Fitrat",
+      "Abu ali Ibn Sino",
+      "Abduqodir Shakuriy"
+    ]
+  },
+  {
+    "q": "Kishikim hayotdan olmasa ta’lim",
+    "correct": "A.A. Rudakiy.",
+    "wrong": [
+      "A.Navoiy",
+      "Z.Bobur",
+      "Ibn Sino"
+    ]
+  },
+  {
+    "q": "Muhammad Sodiq Qoshg‘ariyning “Odob as- solihin” asarining ma’nosi?",
+    "correct": "“Yaxshi kishilar odobi”",
+    "wrong": [
+      "“Bilimning eshigi alifbe”",
+      "Nasihat kitobi",
+      "”Pandnoma”"
+    ]
+  },
+  {
+    "q": "“Ustoz shogirdlariga qattiq zulm ham, haddan tashqari ko‘ngilchanlik ham qilmasligi lozim”. Ushbu fikr qaysi allomaga tegishli?",
+    "correct": "Farobiy;",
+    "wrong": [
+      "Avloniy;",
+      "Beruniy;",
+      "Navoiy;"
+    ]
+  },
+  {
+    "q": "“Ko‘kka suzsa yuzga tushar, Kichikda qatig‘lansa ulgazu sevinur, Odobning boshi – til” Ushbu fikr muallifi kim?",
+    "correct": "Maxmud Qoshg‘ariy.",
+    "wrong": [
+      "Yusus Xos Xojib.",
+      "Al Farobiy.",
+      "Al Beruniy."
+    ]
+  },
+  {
+    "q": "“Vatanni saqlab qolmoq, faqat xoqonga emas, xalqqa ham bog‘liq” fikrlar qaysi bitikda berilgan?",
+    "correct": "Bilga xoqon",
+    "wrong": [
+      "Kultegin",
+      "Tunyuquq",
+      "To‘g‘ri javob yo‘q"
+    ]
+  },
+  {
+    "q": "Eng qadimgi davrlarda ulug‘langan axloqiy xislatlarni toping?",
+    "correct": "to‘g‘rilik, halolik, vijdon, ezgulik, xushxulqlik, adolat, sadoqat, mehmondo‘stlik.",
+    "wrong": [
+      "adolat, tashkilotchilik. Kashunar.",
+      "ezgulik, xushxulqlik, adolat, sadoqat, mehmondo‘stlik.",
+      "jasurlik, tog‘ri munosabat, insoniylik."
+    ]
+  },
+  {
+    "q": "Buzuldi bu zamonlar,",
+    "correct": "Devonu lug‘atit turk.",
+    "wrong": [
+      "Hibat ul haqoyiq.",
+      "Ovisto.",
+      "Yusuf Xos Xojib."
+    ]
+  },
+  {
+    "q": "Salomlashish va ruhsat so‘rash odobi, muloqot odobi kabi botiniy va zohiriy qoidalar qaysi asardan  olingan?",
+    "correct": "“Odob as-solihin”",
+    "wrong": [
+      "”Pandnoma”",
+      "“Sabotul ojizin”",
+      "Fozil odamlar shahri"
+    ]
+  },
+  {
+    "q": "Hadislar nafaqat to‘planganligi, balki musulmon ahlining ma’naviyat sifatlariga aylanib ketganligi uchun ham yo‘qolmaydi. Hadislarda qaysi mavzulari yetakchi o‘rin egalladi?",
+    "correct": "Barcha javoblar to‘gri;",
+    "wrong": [
+      "yurtga muhabbat, ilmga chorlash, samimiylik;",
+      "insof, adolat, o‘zgalar haqiga xiyonat qilmaslik",
+      "halollik, poklik, mehnatsevarlik,"
+    ]
+  },
+  {
+    "q": "“Siyosatnoma” asarini muallifi kim?",
+    "correct": "Nizom ul-Mulk;",
+    "wrong": [
+      "Abdurahmon Jomiy;",
+      "Al-Xorazmiy;",
+      "Mar az-Zamaxshariy;"
+    ]
+  },
+  {
+    "q": "Abu Nasr Farobiy ning didaktik qarashlarini toping?",
+    "correct": "Ta’lim – so‘z va o‘rganish bilangina amalga oshiriladi. Tarbiya – esa amaliyot, ish-tajriba bilan amalga oshiriladi.",
+    "wrong": [
+      "U birinchi marta insonlar o‘rtasidagi munosabatlarni matematik shakllarda ifodaladi.",
+      "inson kamolotida uch narsa muxim rol’ o‘ynaydi: 1.Irsiyat. 2.Muhit. 3.Tarbiya.",
+      "insonlar xulq-atvorida birmuncha nuqsonlar bor. Bular: aldash, rashk, o‘ch olish, adovat, bo‘xton, irodasizlik kabilardir."
+    ]
+  },
+  {
+    "q": "Bilish nazariyasiga muxim hissa qo‘shgan va u birinchilardan   bo‘lib,   induktsiya, deduktsiya, sinov-kuzatish   va   sinov   metodlariga   asos soldi. Ushbu olim kim?",
+    "correct": "Al-Xorazmiy",
+    "wrong": [
+      "Al-Farobiy;",
+      "Ibn Sino;",
+      "Al-Beruniy;"
+    ]
+  },
+  {
+    "q": "Har kimki ilm, hikmatni desa, uni yoshligidan boshlasin, so‘zining ustidan chiqsin, yomon ishlardan saqlanadigan bo‘lsin, hiyonat, makr va hiylalardan uzoq bo‘lsin, diyonatli bo‘lsin, ilm va ahli ilmdan mol-dunyosini ayamasin. Ushbu fikrlar kimniki?",
+    "correct": "Al-Farobiy;",
+    "wrong": [
+      "Xorazmiy",
+      "Ibn Sino;",
+      "Beruniy;"
+    ]
+  },
+  {
+    "q": "«Minerologiya», «Geodeziya», «Hindiston», «Qadimgi xalqlardan qolgan yodgorliklar», «Saydana» asarlari muallifi kim?",
+    "correct": "Al-Beruniy;",
+    "wrong": [
+      "Ibn Sino;",
+      "Xorazmiy",
+      "Al-Farobiy;"
+    ]
+  },
+  {
+    "q": "«Tadbir al-Manozil», «Tib qonunlari» «Axloq haqida risola», «Burch haqida risola», «Al-konun», «Ishq hakida risola», «Xay ibn-Yakzon», «Donishnoma» asarlari muallifi kim?",
+    "correct": "Ibn Sino;",
+    "wrong": [
+      "Al-Beruniy;",
+      "Xorazmiy",
+      "Al-Farobiy;"
+    ]
+  },
+  {
+    "q": "«Odamning olasi ichida – yilqiniki tashqi(sirti)da»; «Ho‘kizning ortin oyog‘i bo‘lguncha, buzoqning boshi bo‘lgan yaxshiroq»; «Tirishqoqning labi yog‘liq, erinchoqning boshi qonlik»; «Odobning boshi – til». Ushbu kabi maqollar qaysi asarda keltirilgan?",
+    "correct": "Mahmud Qoshg‘ariyning “Devonu lug‘otit-turk” asarida;",
+    "wrong": [
+      "Kaykovus “Qobusnoma” asarida;",
+      "Yusuf Xos Xojibning “Qutadg‘u bilik” asari;",
+      "Alisher Navoiy “Mahbub ul-qulub” asarida;"
+    ]
+  },
+  {
+    "q": "Ulug‘likka yetsang unutma o‘zing,",
+    "correct": "Ahmad Yugnakiyning “Hibat ul-haqoyiq” asarida",
+    "wrong": [
+      "Kaykovus “Qobusnoma” asarida;",
+      "Mahmud Qoshg‘ariyning “Devonu lug‘otit-turk” asarida;",
+      "Alisher Navoiy “Mahbub ul-qulub” asarida;"
+    ]
+  },
+  {
+    "q": "“Yuqоri mаrtаbа vа unvоn kishilаrgа оbro‘ kеltirmаydi, хushахlоqlilik vа оr-nоmus ulаrning оliyjаnоbligi vа оbro‘sini bеlgilаb bеrаdi. Qаchоnki yomg‘ir(ахlоqiylik)ning mаnbаi оr-nоmusdаn shаkllаngаn bo‘lsа, mаzkur yomg‘ir tоmchisi suvsiz аdir uchun оbi-hаyot bеrаdi. Ахlоqsiz kishilаr hurmаtgа sаzоvоr bo‘lа оlishmаydi, ulаr rаzil vа оsmоn gumbаzining оstidаdirlаr”. Navoiy qaysi asarida shunday deb yozadi?",
+    "correct": "“Hаyrаt ul-аbrоr”;",
+    "wrong": [
+      "“Mаhbub ul-qulub”",
+      "“Nаzmul jаvоhir”;",
+      "Sab’ayi Sayyor;"
+    ]
+  },
+  {
+    "q": "Sаbr аchchiqdir – аmmо fоydа bеruvchi, qаttiqdir – аmmо zаrаrni dаf etuvchi... Sаbr shоdliklаr kаlitidir vа bаndlаr оchqichidir. U o‘rtоqdir – suhbаt zеrikаrli, аmmо mаqsаdgа оlib bоruvchi; ulfаtdir – umidi uzun, аmmо охiri estаkkа eltuvchi. Kabi sabr haqidagi fiklar muallfi kim?",
+    "correct": "Alisher Navoiy;",
+    "wrong": [
+      "Al-Beruniy;",
+      "Bobur",
+      "Mirzo Ulugbek;"
+    ]
+  },
+  {
+    "q": "Kim g‘аzаbni eng оg‘ir ruhiy kаsаllik dеydi. G‘аzаb kishining kаttа nuqsоni, kаmchiligi, аqlsizligidir, аgаr аql g‘аzаb vа hissiyotgа bo‘ysunsа, kishi hаyvоn dаrаjаsigа tushib qоlishi mumkin, chunki hаyvоnning аqli bo‘lmаgаnligi tufаyli u g‘аzаb vа quvvаtini o‘zigа buysundirа оlmаydi deb aytadi?",
+    "correct": "Jaloliddin Davoniy;",
+    "wrong": [
+      "Z.M.Bobur;",
+      "Al-Beruniy;",
+      "Mirzo Ulugbek;"
+    ]
+  },
+  {
+    "q": "Somoniylar davlatidagi madaniy markazlarni toping?",
+    "correct": "Marv, Buxoro, Samarqand va Urganch;",
+    "wrong": [
+      "Samarqand, Qo‘qon, Xorazm;",
+      "Movorounnahr, Baqriya, Xuroson;",
+      "Farg‘ona, Xorazm, Urganch;"
+    ]
+  },
+  {
+    "q": "Kimning fikricha insonlar xulq-atvorida birmuncha nuqsonlar bor. Bular: aldash, rashk, o‘ch olish, adovat, bo‘xton, irodasizlik kabilardir?",
+    "correct": "Ibn Sino;",
+    "wrong": [
+      "Farobiy",
+      "Beruniy;",
+      "Jalolidin Davoniy;"
+    ]
+  },
+  {
+    "q": "Ushbu ta’lim qarashlarni qaysi olim ilgari surgan? Bilim olishda bolalarni maktabda o‘qitish zarurligini qayd etar ekan, ta’limda quyidagi tomonlarga rioya etish zarurligini ta’kidlaydi:",
+    "correct": "Ibn Sino;",
+    "wrong": [
+      "Farobiy",
+      "Beruniy;",
+      "Jalolidin Davoniy;"
+    ]
+  },
+  {
+    "q": "«Ipаk yo‘li» yo‘lining yo‘nalishi to‘g‘ri berilgan javobni toping?",
+    "correct": "Xitoy,Markaziy Osiyo, Eron, Mesopotamiya, Suriya, Turkiya, Yevropa.",
+    "wrong": [
+      "Xitoy vа Hindistondаn Ulug‘ Turkiston orqаli Kichik Osiyo vа Yevropа tomon kesib o‘tgаn;",
+      "Hindiston, Turkiston, Xitoy;",
+      "Kichik osiyo, Xitoy;"
+    ]
+  },
+  {
+    "q": "Quyidagilar so‘fiylik tariqatining qaysi bosqichi? Hamma narsaning, butun borliqning asosi – xudo ekanini, o‘zining mohiyati xudo mohiyati bilan birgaligini bilish va anglash. Bunda odam uchun barcha kibr-u havo, manmanlik, shon-shuhrat bema’ni bo‘lib ko‘rinadi, shunda u orif, ya’ni bilimli, xudoni tanigan bo‘ladi?",
+    "correct": "ma’rifat;",
+    "wrong": [
+      "shariat;",
+      "haqiqat;",
+      "tariqat;"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich maktablar rivojlangan qaysi davlatda bolalar asosiy darslarini partada emas balki gilamlar, divan va kreslolarda o‘tirib ta’lim olishadi?",
+    "correct": "Finlandiya;",
+    "wrong": [
+      "AQSH;",
+      "Xitoy;",
+      "Germaniya;"
+    ]
+  },
+  {
+    "q": "Ushbu ta’limiy shior qaysi rivojlangan davlatning shiori hisoblanadi? “Yo hayotga tayyorlaymiz, yoki — imtihonlarga. Biz birinchisini tanlaymiz”",
+    "correct": "Finlandiya;",
+    "wrong": [
+      "Germaniya;",
+      "AQSH;",
+      "Xitoy;"
+    ]
+  },
+  {
+    "q": "………………………...davlatining ta’lim tizimida qaysi fanga ko‘proq etibor qaratilgani va rivojlangi uchun bolalar ochiq havoda maktab oldida maysalar ustida maxsus jihozlangan alohida qatorlarda ta’lim oladilar?",
+    "correct": "Finlandiya;",
+    "wrong": [
+      "AQSH;",
+      "Xitoy;",
+      "Germaniya;"
+    ]
+  },
+  {
+    "q": "Аmеrikа Qo‘shmа shtаtlаridа tа’lim tizimining bоshlаng‘ich mаktаblаrida o‘quvchilar nechanchi sinfgacha o‘qishadi?",
+    "correct": "1-8- sinflаrgаchа;",
+    "wrong": [
+      "9-12-sinflаrgacha;",
+      "1-6 - sinflаrgacha;",
+      "1-4- sinflаrgacha;"
+    ]
+  },
+  {
+    "q": "AQShdа mаjburiy tа’lim necha yoshgаchа аmаl qilаdi?",
+    "correct": "12-yoshgacha;",
+    "wrong": [
+      "9-yoshgacha;",
+      "15-yoshgacha;",
+      "16-yoshgacha;"
+    ]
+  },
+  {
+    "q": "O’quvchilarni texnologiya darslarida mehnatga axloqiy tayyorlash nima deyiladi?",
+    "correct": "O’quvchilarning jamoada ishlashi, o’zaro do’stona yordam berishi, ijodiy tashabbuskorligi, tashkilotchilik qobiliyatlarini namoyish qilishlari, mehnat kishilariga va mehnat natijalariga hurmat bilan yondashishlari nazarda tutiladi",
+    "wrong": [
+      "O’quvchilarni mehnat natijalariga hurmat bilan yondashishlari nazarda tutiladi",
+      "Texnologik jarayonga tayyorlanish",
+      "Texnologiya darslarini tashkil etish va  tayyorgaligi"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limi jarayonida bilim, ko‘nikma va malakalarini zamonaviy talablar darajasida bo‘lishini ta’minlash uchun o‘quvchilarning mustaqil ravishda ijodiy faoliyat yurita olishiga o‘rgatish. Bu qaysi vazifaga kiradi?",
+    "correct": "Ijodiy vazifa",
+    "wrong": [
+      "Amaliy vazifa",
+      "Tashkiliy vazifa",
+      "Uslubiy vazifa"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limi jarayonida buyum, narsa, namunalar asosida zaruriy vazifalarni amalda bajara olish. Bu qaysi vazifaga kiradi?",
+    "correct": "Amaliy vazifa",
+    "wrong": [
+      "Ijodiy vazifa",
+      "Uslubiy vazifa",
+      "Tashkiliy vazifa"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limi bo‘yicha nazariy amaliy mashg‘ulotlar uchun o‘quv xonalari hamda unda maxsus ish joyi tashkil qilish, xavfsiz va qulay texnologik sharoitini yaratish zarur. Bu qaysi vazifaga kiradi?",
+    "correct": "Tashkiliy vazifa",
+    "wrong": [
+      "Ijodiy vazifa",
+      "Uslubiy vazifa",
+      "Amaliy vazifa"
+    ]
+  },
+  {
+    "q": "Mashg‘ulotlarning ish rejalarini tuzish, o‘ziga xos texnologiya mashg‘ulotlarini amalga oshira borish, mashg‘ulotlarda zamonaviy ilg‘or pedagogik texnologiyalar, didaktik vositalardan keng foydalanish, texnologiya ta’lim darslarini tashkil etish. Bu qaysi vazifaga kiradi?",
+    "correct": "Uslubiy vazifa",
+    "wrong": [
+      "Ijodiy vazifa",
+      "Amaliy vazifa",
+      "Tashkiliy vazifa"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida texnologik vositalarga nimalar kiradi?",
+    "correct": "Texnalogiya  taʼlimida  foydalaniladigan ish qurollari va fanda aloqador vositalar",
+    "wrong": [
+      "Biror buyumni qo‘lda yasash texnikasi",
+      "Buyum yasashda ishlatiladigan texnik qurilmalar",
+      "Darsda ishlatiladigan vositalar"
+    ]
+  },
+  {
+    "q": "Texnologiya fanining psixologik komponentlari qaysi qatorda to’g’ri ko’rsatilgan?",
+    "correct": "Sezib-anglash, idrok, diqqat, xotira, tafakkur",
+    "wrong": [
+      "Tushunish, o’rganish",
+      "Amalda qo’llash",
+      "Kasbga yo’naltirish"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida applikatsiya sa’natining mazmuni",
+    "correct": "Turli shakllarni qirqish va ularni fontarzida qabul qilingan materiallar hisobiga mustahkamlashga asoslanuvchi turidir.",
+    "wrong": [
+      "Turli materiallardan sa’nat asarini yaratish",
+      "Qog’oz va kartondan yasaladigan tasvirlar.",
+      "Tabiatdagi mavjud bo’lgan barcha go’zallikni, borliqni yasash"
+    ]
+  },
+  {
+    "q": "Boshlang’ich ta’lim texnologiya darslarida nechta ish turi mavjud?",
+    "correct": "5 ta ish turi",
+    "wrong": [
+      "10 ta ish turi",
+      "7 ta ish turi",
+      "6 ta ish turi."
+    ]
+  },
+  {
+    "q": "Texnologiya darslarining tashkiliy qismida nimalarga e’tibor berish kerak?",
+    "correct": "Salomlashuv, davomatni aniqlash, ish joyini tayyorlash",
+    "wrong": [
+      "Salomlashuv, davomatni aniqlash, darsga hozirlik ko’rish",
+      "Salomlashuv, davomatni aniqlash dars o’tish",
+      "Davomatni aniqlash, savol-javob"
+    ]
+  },
+  {
+    "q": "Qanaqa qog’ozga karton deyiladi?",
+    "correct": "1 kv. metri 250 grammdan ortiq qog’ozga.",
+    "wrong": [
+      "1 kv. metri 250 grammdan kam bo’lgan qog’ozga.",
+      "Bukilishi va qirqilishi qiyin qog’ozga.",
+      "Og’irligi 500 gramm bo’lgan qog’ozga."
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida applikatsiyaning nechta turi mavjud?",
+    "correct": "5ta turi mavjud",
+    "wrong": [
+      "10 ta turi mavjud",
+      "14 ta turi mavjud",
+      "9 ta turi mavjud."
+    ]
+  },
+  {
+    "q": "Texnologiya darsida oʻquv materiallarini oʻzlashtirishning asosiy bosqichlari?",
+    "correct": "Bilimlarni  qabul qilish, tushunish, idrok etish va amalga tadbik etish",
+    "wrong": [
+      "Diqqat bilan tinglash, topshiriqlarni bajarib borish",
+      "Oʻqishga, bilimga qiziqish",
+      "Qunt bilan ishlash"
+    ]
+  },
+  {
+    "q": "Texnologiya fanidan sinfdan tashqari ishlarning shakllari.",
+    "correct": "Ommaviy ishlar, to’garak ishlari, yakka tartibdagi mashg’ulotlar.",
+    "wrong": [
+      "Darsdan tashqari bajariladigan ishlar, ommaviy ishlar, maktab ishlari.",
+      "Ommaviy ishlar, maktab ishlari, yakka tartibdagi mashg’ulotlar",
+      "Ommaviy ishlar, yakka tartibdagi ishlar."
+    ]
+  },
+  {
+    "q": "O‘quvchilarni texnologik jarayoniga ruhiy tayyorlashni nimalar tashkil etadi?",
+    "correct": "Bolalarning yoshiga va qobiliyatiga mos keluvchi ongli va ijobiy mehnatga o’rgatish.",
+    "wrong": [
+      "Bolani ijodiy mehnatga tayyorlash.",
+      "Bolani aqliy mehnatga tayyorlash.",
+      "Aqliy va ruhiy imkoniyatlarini o’rganish"
+    ]
+  },
+  {
+    "q": "Xoja Bahovuddin Naqshbandiy mehnat tarbiyasi haqida qanday fikr bildirgan?",
+    "correct": "Dil bayoru, dast bakor, ya’ni diling Allohda, qo’ling doim mehnatda bo’lsin",
+    "wrong": [
+      "mehnatdan kelsa boylik, turmush bo’lar chiroylik.",
+      "Hunar o’rgan, chunki hunarda ko’’ sir, yo’iq eshiklarni ochar birma-bir.",
+      "Inson bo’lib dunyoga keldingmi?  Biron-bir kasb egalla, hunar o’rgan."
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida ish joyini to’g’ri tashkil qilish.",
+    "correct": "Stol ustiga salfetka yozib, o’ng tomoniga kerakli asbob uskunalar chap tomoniga kerakli materiallar to’plami, old tomoniga chiqindilar  uchun quticha, yelim va sochiq qo’yiladi.",
+    "wrong": [
+      "Stol ustiga qog’oz yozib darsga kerakli bo’lgan buyumlarni tayyorlab qo’yish.",
+      "Bolalarni harakatlariga halaqit bermaydigan qilib darsga kerakli ish qurollarini tayyorlab qo’yish.",
+      "Sanitariya-gigiena, texnika xavfsizligi, to’g’ri o’tirish qoidasiga amal qilish."
+    ]
+  },
+  {
+    "q": "Texnologiya darslarni tashkil etish necha qismdan iborat?",
+    "correct": "Tashkiliy qism, asosiy qism, yakuniy qism.",
+    "wrong": [
+      "Yangi mavzu, darsning yakuniy qismi.",
+      "Tashkiliy qism va yakuniy qism.",
+      "Asosiy qism va tashkiliy qism."
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinflarda texnologiya fani nimani oʻrgatadi?",
+    "correct": "Texnologiya faniga oid nazariy bilim, amaliy koʻnikma va malakalarni egallashlari, kasb tanlashda oʻquvchlarning intellektual qobiliyatlarini ilmiy va texnologik ijodkorlikka jalb qilish imkoniyatini rivojlantirishga.",
+    "wrong": [
+      "Texnologiya faniga oid amaliy koʻnikma hosil boʻlishiga, ranglarni his qilishga, sitqi dildan xizmat qilishga, oʻzaro doʻstona munosabatga oʻrgatadi.",
+      "Texnologiya fani oid amaliy koʻnikma hosil boʻlishiga, oʻquvchilarni mehnatga hurmat bilan yondashishga tayyorlaydi.",
+      "Oʻquvchilarni texnologiya darslarida sa’nat asarini yaratishga, mehnatni oqilona bajarishga, ruhan tayyorlaydi"
+    ]
+  },
+  {
+    "q": "Turli materiallar bilan ishlashga oid  ish turlari qaysi qatorda ko’rsatilgan?",
+    "correct": "Turli ishlab chiqarish materiallari, chiqindi materiallari, plastik materiallar",
+    "wrong": [
+      "Qog’oz va karton bilan ishlash.",
+      "Tabiiy materiallar bilan ishlash.",
+      "Gazlama va ip turlari bilan ishlash"
+    ]
+  },
+  {
+    "q": "Qog’ozdan maketlar yasaganda nimalarga e’tibor berish kerak?",
+    "correct": "Qog’ozning rangiga va sifatiga, buklash chiziqlariga, qog’ozning shakliga, to’g’ri buklashga.",
+    "wrong": [
+      "Qog’ozning sifatiga va shakliga.",
+      "Qog’ozni buklash chiziqlariga.",
+      "Qog’ozni yelimlashga."
+    ]
+  },
+  {
+    "q": "Qog’ozdan maketlar yasashda ishlatiladigan ish qurollari va materiallar",
+    "correct": "Rangli qog’oz, qaychi, yelim, qalam, chizg’ich, yozuv qog’ozi.",
+    "wrong": [
+      "Yozuv qog’ozi, rangli qog’oz, plastillin, yelim.",
+      "Rangli qog’oz qalam, chizg’ich.",
+      "Qaychi, rangli qog’oz, ip turlari, yelim,"
+    ]
+  },
+  {
+    "q": "Qog’oz tarkibiga nima qo’shib  tayyorlanadi?",
+    "correct": "Qog’oz tarkibiga 25% sellyuloza qo’shilib tayyorlanadi.",
+    "wrong": [
+      "Qog’oz va sellyulozadan tayyorlanadi",
+      "Qog’oz tarkibiga 30% sellyuloza qo’shilib tayyorlanadi.",
+      "Qog’oz tarkibiga 50% sellyuloza qo’shilib tayyorlanadi."
+    ]
+  },
+  {
+    "q": "Texnologiya o‘quv dasturi nechanchi yilda qayta takomillashtirilgan?",
+    "correct": "2017 yilda",
+    "wrong": [
+      "2018 yilda",
+      "2021 yilda",
+      "2019 yilda."
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida jismoniy mehnat nima?",
+    "correct": "Insonning tana a’zolari orqali ongli ravishda faoliyat ko’rsatish.",
+    "wrong": [
+      "Insonni Texnologiya qilish faoliyati.",
+      "Jismoniy harakat.",
+      "Texnologiyaning hamma turi jismoniy Texnologiyadir"
+    ]
+  },
+  {
+    "q": "Qog’oz qaysi asrda va qaeyrda paydo bo’lgan?",
+    "correct": "IV asrda Xitoyda",
+    "wrong": [
+      "751-yilda Arab davlatlarida",
+      "1154-yilda Ispaniyada",
+      "1228-yilda Germaniyada"
+    ]
+  },
+  {
+    "q": "Mehnat faoliyati-bu nima?",
+    "correct": "Maqsadga yo’naltirilgan aqliy va jismoniy faoliyat.",
+    "wrong": [
+      "Mehnat odam uchun kerakli va zarur faoliyat.",
+      "Tabiatga ta’sir qilib undan o’ziga kerakli maqsadda foydalanish.",
+      "Mehnat faoliyati-inson ehtiyojlarini qondirish"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida o’quvchilarni amaliy ishga tayyorlash qanday amalga oshiriladi?",
+    "correct": "Asbob va uskunalardan foydalana bilish, materialga ishlov bera olish, xatoni o’z vaqtida aniqlash va to’g’irlay olishga o’rgatish.",
+    "wrong": [
+      "Texnologiya ta’limining muhim omillaridan biridir.",
+      "Asbob va uskunalardan foydalana bilish.",
+      "Texnologiya malaka va ko’nikmalarini shakllantirish."
+    ]
+  },
+  {
+    "q": "Texnologiya o’qituvchisi darsda nimalarga e’tibor berishi kerak?",
+    "correct": "Darsni rejalashtirishga, vaqtdan unumli foydalanishga, ko’rsatmaga amal qilishga, ish joyini to’g’ri tashkil etishga",
+    "wrong": [
+      "Darsni tushuntirish, materiallar va buyumlar izchilligini ko’rsatishga.",
+      "Bolaning qobiliyatiga, qiziqishiga, imkoniyatlariga e’tibor berish kerak.",
+      "Ish joyini to’g’ri tashkil etishga"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida ommaviy ish turlari",
+    "correct": "Kechalar, konkurslar, musobaqalar, viktorinalar, ekskursiyalar, ko’rgazmalar.",
+    "wrong": [
+      "Jamoada ishlash.",
+      "To’garaklarda ishlash.",
+      "Kichik guruhlarda ishlash."
+    ]
+  },
+  {
+    "q": "Texnologiya fanining vazifalari.",
+    "correct": "O’quvchilarni mehnatga axloqiy, ruhiy va amaliy tayyorlash.",
+    "wrong": [
+      "O’quvchilarni mehnatga tayyorlash",
+      "O’quvchilarni mehnatga  muhabbat ruhida tarbiyalash.",
+      "Texnologiya fanini o’rgatadi"
+    ]
+  },
+  {
+    "q": "Texnologiya fani o’qituvchisining vazifasi?",
+    "correct": "O’quvchilarda texnologik malaka va ko’nikmalarini shakllantirish, kasb-hunarga  qiziqtirish ishlarini amalga oshirish.",
+    "wrong": [
+      "O’quvchilarni jamoada ishlashga o’rgatish.",
+      "O’quvchilarni kasb tanlashga o’rgatish.",
+      "Mehnatga o’rgatish"
+    ]
+  },
+  {
+    "q": "A.Navoiy fikricha, “Inson bo’lib dunyoga keldingmi - ….”",
+    "correct": "Biron-bir kasb egalla, hunar o’rgan, shunda dunyodan hammomga kirib toza yuvinib chiqmagan kishidek o’tmaysan.",
+    "wrong": [
+      "Hunar o’rgan, chunki hunarda ko’p sir, yopiq eshiklarni ochar birma-bir.",
+      "Qo’ling doim mehnatda, diling doim Allohda bo’lsin.",
+      "Mehnat qil va yaxshi yasha."
+    ]
+  },
+  {
+    "q": "Texnologiya xonalarini jihozlash talablari",
+    "correct": "Xona toza, yorug’lik tushib turadigan, ish qurollaridan namunalar tashkil qilingan, o’quvchilarni harakatlanishi uchun qulay bo’lgan, ish materiallari bilan jihozlangan.",
+    "wrong": [
+      "Sanitariya-gigiena talablariga javob bera oladigan.",
+      "Texnologiya fani uchun kerakli bo’lgan ish qurollari mavjud bo’lishi kerak.",
+      "Toza, yorug’lik tushib turadigan xona."
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limining maqsadi nima?",
+    "correct": "O’quvchilarni axloqiy, estetik, iqtisodiy-ekologik, aqliy va jismoniy mehnatga o’rgatish.",
+    "wrong": [
+      "O’quvchilarni mustaqil hayotga tayyorlash.",
+      "O’quvchilarni kasb-hunarga o’rgatish.",
+      "O’quvchilarni mehnat qilishga o’rgatish"
+    ]
+  },
+  {
+    "q": "Qaychi ish stolining qaysi tomonida turishi kerak?",
+    "correct": "Qaychi ish stolining o’ng tomonida",
+    "wrong": [
+      "Qaychi ish stolining old tomonida",
+      "Qaychi ish stolining chap tomonida",
+      "Qaychi ish stolining yon tomonida"
+    ]
+  },
+  {
+    "q": "Bolalarga jamoada ishlashni o’rgatish, ijodkorlik, tashabbuskorlik, tashkilotchilik qobiliyatlarini namoyish qilish, o’zaro do’stona yordam berishni o’rgatish, bular qanday vazifaga kiradi?",
+    "correct": "Texnologiya darslarida axloqiy tarbiyalash vazifalariga",
+    "wrong": [
+      "Texnologiya darslarida ruhiy tarbiyalash vazifalariga",
+      "Texnologiya darslarida amaliy tarbiyalash vazifalariga",
+      "Texnologiya darslarida ekologik tarbiyalash vazifalariga"
+    ]
+  },
+  {
+    "q": "Qog’oz qaysi mamlakatda ixtiro qilingan?",
+    "correct": "Xitoyda",
+    "wrong": [
+      "Yunonistonda",
+      "Amerikada",
+      "Yaponiyada"
+    ]
+  },
+  {
+    "q": "“Mehnat ta’limi” qachon “Texnologiya” nomi bilan o’zgartirildi?\n oʻquv dasturi nechanchi yilda qayta takomillashtirilgan?",
+    "correct": "2017 yilda",
+    "wrong": [
+      "2018 yilda",
+      "2021 yilda",
+      "2019 yilda"
+    ]
+  },
+  {
+    "q": "Tabiiy materiallar to‘g‘ri berilgan qatorni toping.",
+    "correct": "Barglar, toshlar, archa g‘uddasi, kashtan.",
+    "wrong": [
+      "Yong‘oq po‘stlog‘i, plastelin, iplar.",
+      "Barglar, toshlar, , plastelin, iplar.",
+      "Yong‘oq po‘stlog‘i, urug‘lar, bisser"
+    ]
+  },
+  {
+    "q": "Texnologiya so’zining ma’nosi nimani anglatadi?",
+    "correct": "Texnologiya so‘zi yunon tilidan olingan. U ikki qismdan tashkil topgan:\n“Techne” – hunar, mahorat, ustalik degan ma’noni bildiradi.\n“Logos” – ta’limot, fan, bilim degan ma’noni bildiradi",
+    "wrong": [
+      "Texnologiya so‘zi lotin tilidan olingan. U ikki qismdan tashkil topgan:\n“Techne” – hunar, ustalik degan ma’noni bildiradi.\n“Logos” –fan, bilim degan ma’noni bildiradi.",
+      "Texnologiya so‘zi yunon nemis tilidan olingan. \n“Tech” – kasb degan ma’noni bildiradi.\n“Logos” –bilim degan ma’noni bildiradi.",
+      "Texnologiya so‘zi grek tilidan olingan. U ikki qismdan tashkil topgan:\n“Techno” –bajaraman degan ma’noni bildiradi.\n“Logos” – ta’limot, fan, bilim degan ma’noni bildiradi."
+    ]
+  },
+  {
+    "q": "Darsning nech qismi amaliy ishga ajratiladi?",
+    "correct": "Darsning 3 dan 2 qismi .",
+    "wrong": [
+      "Darsning 3 dan 1 qismi .",
+      "Darsning 3 dan 3 qismi .",
+      "Darsning 3 dan 1,5 qismi"
+    ]
+  },
+  {
+    "q": "1kv metri 250 grammdan ortiq bo’lgan qog’oz-?",
+    "correct": "Karton qog’oz",
+    "wrong": [
+      "Rangli qog’oz va karton",
+      "Bukilishi va qirqilishi qiyin qog’oz",
+      "Sifatli bo’lgan qog’oz"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida qaysi ish turiga ko’p soat ajratilgan?",
+    "correct": "Qog’oz va karton bilan ishlashda",
+    "wrong": [
+      "Gazlama va ip turlari bilan ishlashda",
+      "Plastillin va loy bilan ishlashda",
+      "Turli tabiiy materiallar bilan ishlashda"
+    ]
+  },
+  {
+    "q": "Qaysi asbob bilan ishlaganda texnika xavfsizligi qoidalariga amal qilish kerak?",
+    "correct": "Qaychi, igna, bigiz, pichoq bilan ishlashda",
+    "wrong": [
+      "Qog’oz bilan ishlashda",
+      "Plastillin va loy bilan ishlashda",
+      "Karton bilan ishlashda"
+    ]
+  },
+  {
+    "q": "Amaliy ish uchun daraxt barglarini quritish yo’llari",
+    "correct": "Dazmollab, presslab va gerbariy qutilarida quritish",
+    "wrong": [
+      "Kitob orasida quritish, dazmollab quritish, presslab quritish",
+      "Dazmollab quritish, kitob orasiga solib quritish.",
+      "Dazmollab quritish, presslab quritish"
+    ]
+  },
+  {
+    "q": "Gazlama bilan ishlaganda qanday asboblardan foydalaniladi?",
+    "correct": "Qaychi, igna, angishvona",
+    "wrong": [
+      "Ip va pichoq",
+      "Qaychi va stek",
+      "Qaychi va pichoq"
+    ]
+  },
+  {
+    "q": "Qaychidan foydalanish qoidalari nechta?",
+    "correct": "7",
+    "wrong": [
+      "5",
+      "10",
+      "6"
+    ]
+  },
+  {
+    "q": "Ninadan foydalanish qoidalari nechta?",
+    "correct": "5",
+    "wrong": [
+      "9",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "q": "Bigizdan foydalanish qoidalari qaysi qatorda to’g’ri ko’rsatilgan?",
+    "correct": "Barcha qatordagi javoblar to’g’ri ko’rsatlgan",
+    "wrong": [
+      "Bigizni g’ilofda saqla. \nBigizni o’rinsiz ishlatma va g’ilofda saqla.",
+      "Sirti silliq, sirg’anchiq qattiq predmetlarni bigiz bilan teshma.",
+      "Teshilgan predmetlarni qo’ling bilan ushlama"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida mustaqil ish bu…",
+    "correct": "O’qituvchining bevosita ishtirokisiz, biroq uning topshirig’i bilan maxsus ajratilgan vaqtda bajariladigan ishlar.",
+    "wrong": [
+      "Yangi bilimlarni berish maqsadlari qo’yiladi.",
+      "O’quvchilar o’z kuchlari, bilim va qobiliyatlarini sinovdan o’tkazadigan ishlar.",
+      "Ishga ijodiy yondashishni, olingan bilimlarni amalda qo’llay bilishni o’rganadilar."
+    ]
+  },
+  {
+    "q": "Qog’ozga ishlov berish usullari qaysi qatorda to’g’ri ko’rsatilgan?",
+    "correct": "O’lchash, buklash, yirtish, qirqish, yelimlash.",
+    "wrong": [
+      "O’lchash, buklash, tikish",
+      "Qirqish, yelimlash, dazmollash",
+      "Buklash, yirtish, qirqish"
+    ]
+  },
+  {
+    "q": "Yozuv qog‘ozining xususiyati –",
+    "correct": "Sathi silliq, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir.",
+    "wrong": [
+      "Turli ranglarda bo‘ladi, Rangli qog‘ozi turli shakllarni yasashda va tayyor narsalarning ustidan muqovalashda, archa o‘yinchoqlarini yasashda foydalaniladi.",
+      "Eng ko‘p tarqalgan qog‘oz turlariga kiradi. Sifatiga ko‘ra unchalik pishiq emas, namlikni, yelimni o‘ziga tez singdiradi.",
+      "Sathi bosma tur shaklida tayyorlanadi. Mayda grafikli chiziqlari mavjud."
+    ]
+  },
+  {
+    "q": "Ro‘znoma qog‘ozining xususiyatlari-",
+    "correct": "Eng ko‘p tarqalgan qog‘oz turlariga kiradi. Sifatiga ko‘ra unchalik pishiq emas, namlikni, yelimni o‘ziga tez singdiradi.",
+    "wrong": [
+      "Sathi bosma tur shaklida tayyorlanadi. Mayda grafikli chiziqlari mavjud.",
+      "Sathi silliq, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir.",
+      "Turli ranglarda bo‘ladi, Rangli qog‘ozi turli shakllarni yasashda va tayyor narsalarning ustidan muqovalashda, archa o‘yinchoqlarini yasashda foydalaniladi."
+    ]
+  },
+  {
+    "q": "Baxmal qog‘ozining xususiyatlari-",
+    "correct": "Sathi mayda mayin tukli, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir",
+    "wrong": [
+      "Sathi silliq, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir.",
+      "To‘q kul ranglarda bo‘ladi, sathiga mayda qum yelimlangan bo‘ladi. Tabbiy materiallarni va yog‘ochlarni tekislashda ishlatiladi.",
+      "Rangi va guli turlicha bo‘lib muqovalashda, narsalarning ustidan muqovalashda, bezash ishlarida keng foydalanildi."
+    ]
+  },
+  {
+    "q": "Qum qog‘ozining xususiyatlari-",
+    "correct": "To‘q kul ranglarda bo‘ladi, sathiga mayda qum yelimlangan bo‘ladi. Tabbiy materiallarni va yog‘ochlarni tekislashda ishlatiladi.",
+    "wrong": [
+      "Sathi mayda mayin tukli, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir",
+      "Rangi va guli turlicha bo‘lib muqovalashda, narsalarning ustidan muqovalashda, bezash ishlarida keng foydalanildi",
+      "Sathi silliq, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir"
+    ]
+  },
+  {
+    "q": "Oboy gul qog‘ozining xususiyatlari-",
+    "correct": "Rangi va guli turlicha bo‘lib muqovalashda, narsalarning ustidan muqovalashda, bezash ishlarida keng foydalanildi.",
+    "wrong": [
+      "To‘q kul ranglarda bo‘ladi, sathiga mayda qum yelimlangan bo‘ladi. Tabbiy materiallarni va yog‘ochlarni tekislashda ishlatiladi.",
+      "Sathi mayda mayin tukli, yelim sindirilgan, namlikni kamroq singdiradi. Maketlarni ixtirolashda, muqovalashda, kartondan yasalgan narsalarni muqovalashda juda qulaydir",
+      "Eng ko‘p tarqalgan qog‘oz turlariga kiradi. Sifatiga ko‘ra unchalik pishiq emas, namlikni, yelimni o‘ziga tez singdiradi."
+    ]
+  },
+  {
+    "q": "Rangli qog’ozdan maketlar yasashda qanday ish turlari amalga oshiriladi?",
+    "correct": "Qirqish, buklash, yelimlash.",
+    "wrong": [
+      "Buklash, yasash, qirqish.",
+      "Qog’ozni buklab yasash.",
+      "Shakl berish, buklash, yelimlash."
+    ]
+  },
+  {
+    "q": "Darsning yakuniy qismida qanday ishlar  amalga oshiriladi?",
+    "correct": "Amaliy ishlar tahlil qilib, baholanadi ish o’rni tozalanadi va uyga vazifa beriladi.",
+    "wrong": [
+      "Xato va kamchiliklar to’g’rilanadi.",
+      "Amaliy ishlar tahlil qilib, baholanadi",
+      "Ish o’rni tozalanadi va uyga vazifa beriladi."
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinflarda o’quvchilar qanday mehnat turi bilan shug’ullanadi?",
+    "correct": "Qo’l mehnati turi bilan shug’ullanadi.",
+    "wrong": [
+      "Texnik turi bilan shug’ullanadi",
+      "Maishiy mehnat turi bilan shug’ullanadi",
+      "Amaliy  mehnat turi bilan shug’ullanadi"
+    ]
+  },
+  {
+    "q": "Qog’oz qanday xususiyatga ega?",
+    "correct": "Yonadi, qirqiladi, chiziladi, g’ijimlanadi, yelimlanadi, yirtiladi, bo’yaladi, yoziladi, namlikni o’ziga singdiradi.",
+    "wrong": [
+      "Faqat yoziladi va bo’yaladi",
+      "Qirqiladi, g’ijimlanadi, yonadi, yirtiladi, tikiladi, namlikni o’ziga singdiradi.",
+      "Qirqiladi, g’ijimlanadi, yirtiladi, yelimlanadi"
+    ]
+  },
+  {
+    "q": "Kasb so’ziga ta’rif bering",
+    "correct": "Kasb (lotincha: professio – rasmiy koʻrsatilgan mashgʻulot, ixtisoslik) – kishining mehnat faoliyati, doimiy mashgʻuloti turi",
+    "wrong": [
+      "Odatda, shaxsning asosiy tirikchilik manbai hisoblanadi",
+      "Insonga ma'lum bir talablar quyuvchi faoliyat turidir.",
+      "Kasb insonni jamiyat tomonidan tan olinishidir."
+    ]
+  },
+  {
+    "q": "Umumiy o‘rta ta’limning milliy o‘quv dasturida “Texnologiya” faning kompetensiyalari nechta deb belgilab berilgan?",
+    "correct": "3",
+    "wrong": [
+      "5",
+      "7",
+      "4"
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinfdagi texnologiya fanini qaysi fanlar bilan integratsiyalash mumkin?",
+    "correct": "Tabiiy, tasviriy sa’nat, tarbiya, matematika, o’qish.",
+    "wrong": [
+      "Ona tili, o’qish, tarbiya",
+      "Rus tili, ingliz tili, tabiiy fan",
+      "Tabiiy, rasm, astranomiya"
+    ]
+  },
+  {
+    "q": "Qog’ozni buklab turli shakllar yasash qanday nomlanadi?",
+    "correct": "Maket yoki origament deb nomlanadi",
+    "wrong": [
+      "Applikatsiya va mozaika ishlari deb nomlanadi",
+      "Pape-mashe ishlari deb nomlanadi.",
+      "Kvilling deb nomlanadi."
+    ]
+  },
+  {
+    "q": "Texnologiya darsini rejalashtirishda nimalarga e’tibor berishi kerak?",
+    "correct": "Texnologiya darsida yangi bilim berish, o’rgatish va mehnat ko’nikmalarni hosil qilishga.",
+    "wrong": [
+      "O’quvchilarni mehnatga o’rgatishga.",
+      "Tikishga va yasashga.",
+      "Kerakli ish qurollari va ko’rgazmalarni tayyorlashga"
+    ]
+  },
+  {
+    "q": "Origami san’atining vatani qaysi qatorda to‘g‘ri ko‘rsatilgan",
+    "correct": "Xitoy",
+    "wrong": [
+      "Rossiya.",
+      "Fransiya",
+      "Koreya"
+    ]
+  },
+  {
+    "q": "Qog’ozni oddiy usullarda buklab qanday shakllar hosil qilish mumki?",
+    "correct": "16 ta kvadrat va 32 ta uchburchak",
+    "wrong": [
+      "16 ta kvadrat va 30 ta uchburchak.",
+      "14 ta kvadrat 28 ta uchburchak",
+      "14 ta kvadrat va 32 ta uchburchak."
+    ]
+  },
+  {
+    "q": "Amaliy ish darsning qaysi bosqichida amalga oshiriladi?",
+    "correct": "Asosiy qismida",
+    "wrong": [
+      "Tashkiliy qismida",
+      "Yakuniy qismida",
+      "Mustahkamlash qismida"
+    ]
+  },
+  {
+    "q": "Darsning texnologik xaritasi qanday hujjat?",
+    "correct": "Darsni boshlash va tugallashni tartibga soluvchi hujjat.",
+    "wrong": [
+      "Birorta ish mazmunini, ob’ektini qog’ozga tushirish hujjati.",
+      "Birorta buyumni yasash jarayoni aks ettirilgan rasmli hujjat",
+      "Texnik hujjat"
+    ]
+  },
+  {
+    "q": "Texnologiya darsning yakuniy qismida qanday ishlarni amalga oshiradi?",
+    "correct": "O’quvchilarni amaliy faoliyatini baholaydi, ish joyini tozalaydi, uyga vazifa beradi.",
+    "wrong": [
+      "Savol-javob o’tkazadi va mustahkamlaydi",
+      "O’quvchilarni dars jarayonidagi faoliyatini mustahkamlaydi va baholaydi",
+      "Uyga vazifa beradi"
+    ]
+  },
+  {
+    "q": "“Bayram tabriknomasi tayyorlash” mavzusi qaysi ish turiga kiradi?",
+    "correct": "Qog’oz va karton bilan ishlash turiga kiradi",
+    "wrong": [
+      "Karton va  qog’oz bilan ishlash turiga kiradi",
+      "Applikatsiya va mozaika ishlari turiga kiradi",
+      "Konstruktorlik va modellashtirish ishlar turiga kiradi"
+    ]
+  },
+  {
+    "q": "Texnologiya darsining necha qismi amaliy ishga ajratiladi?",
+    "correct": "Darsning 3/4 qismi",
+    "wrong": [
+      "Darsning 100% foizi",
+      "Darsning 2/4 qismi",
+      "Darsning 1/4 qismi"
+    ]
+  },
+  {
+    "q": "O’quvchilarni mehnat jarayoniga ruhiy tayyorlash vazifasi qaysi qatorda to’g’ri ko’rsatilgan?",
+    "correct": "O’quvchilarning yoshiga mos keluvchi ongli va ijodiy sifatlarni tarkib toptirish.",
+    "wrong": [
+      "Hissiy bilish jarayonini tarkib toptirish.",
+      "Bolaning psixologik jarayonlarini rivojlantirish",
+      "Ongli va ijodiy sifatlarni tarkib toptirish."
+    ]
+  },
+  {
+    "q": "Texnologiya darslariga qo’yiladigan maqsadlarini belgilang?",
+    "correct": "Ta’limiy, tarbiyaviy, rivojlartiruvchi, kasb-hunarga yo’naltiruvchi",
+    "wrong": [
+      "Ta’limiy, tarbiyaviy, rivojlartiruvchi maqsad",
+      "Ta’limiy, tarbiyaviy, rivojlartiruvchi, kasb-hunarga yo’naltiruvchi, tashkiliy maqsad",
+      "Nazorat, tashkiliy, uslubiy maqsad"
+    ]
+  },
+  {
+    "q": "Kichik guruhlarda ishlash shaklini aniqlang",
+    "correct": "Bunda, o’quvchilarning hammasi bir xil topshiriqni bajarishdan iboratdir, shuning uchun o’qituvchi bir vaqtning o’zida butun gruppa ishiga rahbarlik qila oladi.",
+    "wrong": [
+      "Bunda, gruppaning har biri 3-4 kishilik guruhlarga bo’linishi, bu guruhlarning har qaysisi o’z topshirig’ini bajarishi nazarda tutiladi",
+      "Bunda, hamma o’quvchilar har xil ishni bajarishdan iborat.",
+      "O’quvchilar individual ish bajaradi."
+    ]
+  },
+  {
+    "q": "Origami so’zining ma’nosi",
+    "correct": "Origami-yaponcha so‘z bo‘lib, qog‘ozni buklab turli shakllar yasash san’atini anglatadi.\n “Oru” — buklash\n“Kami (gami)” — qog‘oz",
+    "wrong": [
+      "Origami- xitoycha so‘z bo‘lib, qog‘ozni buklab turli shakllar yasash san’atini anglatadi.",
+      "“Oru”- buklash\n“Kami (gami)”- qog‘oz degan ma’noni anglatadi",
+      "Origami-gerkcha so‘z bo‘lib, qog‘ozni buklab turli shakllar yasash san’atini anglatadi.\nBu so‘z ikki qismdan tashkil topgan:\n“Oru” — shakl\n“Kami (gami)” — qog‘oz"
+    ]
+  },
+  {
+    "q": "O’qitishning yakka holda ishlash shaklini aniqlang.",
+    "correct": "Hamma o’quvchilar har xil ishni bajaradi, o’quv jarayonni boshqarish o’quvchilarning hammasini zarur materiallar bilan ta’minlash qiyin bo’ladi.",
+    "wrong": [
+      "O’quvchilar yakka tartibda ishlaydi",
+      "Barcha o’quvchilar har xil ishni bajarishidan iborat.",
+      "Sinf o’quvchilari turli topshiriq ustida ishlaydilar"
+    ]
+  },
+  {
+    "q": "Qaychidan foydalanish talablari",
+    "correct": "Qaychini uzatganda teskarisini qilib uzat, harakatlanganingda ishlatma",
+    "wrong": [
+      "Qaychini harakatlanganingda ishlatma",
+      "Qaychini o’z o’rnida ishlat",
+      "O’tmas qaychidan foydalanma"
+    ]
+  },
+  {
+    "q": "Kompetetnsiya so’zining ma’nosi",
+    "correct": "(lotincha. competo-erishyapman, munosibman,  loyiqman) \n-u yoki bu sohadagi bilimlar, tajriba degan ma’noni anglatadi.",
+    "wrong": [
+      "(grekcha. competo-fazilat), \ndegan ma’noni anglatadi",
+      "(inglizcha. com-kompaniya\n degan ma’noni anglatadi",
+      "(lotincha. competo-) \n-bilimlar, tajriba degan ma’noni anglatadi."
+    ]
+  },
+  {
+    "q": "Kommunikativ kompetensiya bu-",
+    "correct": "texnologiya faniga oid atamalarni muloqot jarayonida qo‘llay olish;\n-tayyorlanadigan buyum ko‘rinishini sodda bayon qilish;\n-mavzu bo‘yicha savollar berish hamda savollarga javob berish;",
+    "wrong": [
+      "texnologiya faniga oid televizor, radioda berilgan eshittirishlarni ko‘rish,\n-o‘rganilgan ish usullarini bajarish, \n-darslik va qo’llanmalarda berilgan ma’lumotlarni o‘rganib borish",
+      "o‘zining o‘quvchilik burchi va vazifalarini bilish, unga rioya qilish, sinfda va oilada o‘z o‘rniga ega bo‘lish; \n-o‘zidan kattalarga, o‘rtoqlari va o‘zidan kichiklarga yordam berish",
+      "oilasida nechta odam borligi, kim katta, kim kichikligini bilish, maktabga kelib ketadigan vaqtni bilish;\nkundalik rejalarini tuza olish; kundalik faoliyatda turli chizmalarni chiza olish, mamlakatimizdagi bayram kunlarini bilish;"
+    ]
+  },
+  {
+    "q": "Axborotlar bilan ishlash kompetensiyasi-bu",
+    "correct": "texnologiya faniga oid televizor, radioda berilgan eshittirishlarni ko‘rish,\n-o‘rganilgan ish usullarini bajarish, \n-darslik va qo’llanmalarda berilgan ma’lumotlarni o‘rganib borish",
+    "wrong": [
+      "o‘zining o‘quvchilik burchi va vazifalarini bilish, unga rioya qilish, sinfda va oilada o‘z o‘rniga ega bo‘lish; \n-o‘zidan kattalarga, o‘rtoqlari va o‘zidan kichiklarga yordam berish",
+      "oilasida nechta odam borligi, kim katta, kim kichikligini bilish, maktabga kelib ketadigan vaqtni bilish;\nkundalik rejalarini tuza olish; kundalik faoliyatda turli chizmalarni chiza olish, mamlakatimizdagi bayram kunlarini bilish;",
+      "texnologiya faniga oid atamalarni muloqot jarayonida qo‘llay olish;\ntayyorlanadigan buyum ko‘rinishini sodda bayon qilish;\n-mavzu bo‘yicha savollar berish hamda savollarga javob berish;"
+    ]
+  },
+  {
+    "q": "Ijtimoiy faol fuqarolik kompetensiyasi bu-",
+    "correct": "o‘zining o‘quvchilik burchi va vazifalarini bilish, unga rioya qilish, sinfda va oilada o‘z o‘rniga ega bo‘lish; o‘zidan kattalarga, o‘rtoqlari va o‘zidan kichiklarga yordam berish",
+    "wrong": [
+      "oilasida nechta odam borligi, kim katta, kim kichikligini bilish, maktabga kelib ketadigan vaqtni bilish;\nkundalik rejalarini tuza olish; kundalik faoliyatda turli chizmalarni chiza olish, mamlakatimizdagi bayram kunlarini bilish;",
+      "texnologiya faniga oid atamalarni muloqot jarayonida qo‘llay olish;\n-tayyorlanadigan buyum ko‘rinishini sodda bayon qilish;\n-mavzu bo‘yicha savollar berish hamda savollarga javob berish;",
+      "texnologiya faniga oid televizor, radioda berilgan eshittirishlarni ko‘rish,\n-o‘rganilgan ish usullarini bajarish, \n-darslik va qo’llanmalarda berilgan ma’lumotlarni o‘rganib borish."
+    ]
+  },
+  {
+    "q": "Milliy va umummadaniy kompetensiya-bu",
+    "correct": "orasta kiyinish va amal qilish, \ndo‘stlariga, yaqinlari va atrofdagilarga mehribon bo‘lish, \nyurish-turishda kattalardan o‘rnak olish,\no‘z uyi, maktabi, turar mahallasini qadrlash; ozodalikka rioya qilish, milliy bayramlarini bilish, o‘quvchining odob-axloq qoidalari tushunchaga ega bo‘lish, o‘zi yashab turgan diyordagi tarixiy obidalarni bilish",
+    "wrong": [
+      "o‘zining o‘quvchilik burchi va vazifalarini bilish, unga rioya qilish, sinfda va oilada o‘z o‘rniga ega bo‘lish; o‘zidan kattalarga, o‘rtoqlari va o‘zidan kichiklarga yordam berish",
+      "oilasida nechta odam borligi, kim katta, kim kichikligini bilish, maktabga kelib ketadigan vaqtni bilish;\nkundalik rejalarini tuza olish; kundalik faoliyatda turli chizmalarni chiza olish, mamlakatimizdagi bayram kunlarini bilish;",
+      "texnologiya faniga oid atamalarni muloqot jarayonida qo‘llay olish;\ntayyorlanadigan buyum ko‘rinishini sodda bayon qilish;\n-mavzu bo‘yicha savollar berish hamda savollarga javob berish;"
+    ]
+  },
+  {
+    "q": "Matematik savodxonlik, fan va texnika yangiliklaridan xabardor bo‘lish hamda foydalanish kompetensiyasi:",
+    "correct": "oilasida nechta odam borligi, kim katta, kim kichikligini bilish, maktabga kelib ketadigan vaqtni bilish; kundalik rejalarini tuza olish; kundalik faoliyatda turli chizmalarni chiza olish, mamlakatimizdagi bayram kunlarini bilish; isrof va tejamkorlikning ma’nosini tushunish va kundalik hayotda unga amal qilish",
+    "wrong": [
+      "orasta kiyinish va amal qilish, \ndo‘stlariga, yaqinlari va atrofdagilarga mehribon bo‘lish, \nyurish-turishda kattalardan o‘rnak olish,\no‘z uyi, maktabi, turar mahallasini qadrlash; ozodalikka rioya qilish, milliy bayramlarini bilish, o‘quvchining odob-axloq qoidalari tushunchaga ega bo‘lish, o‘zi yashab turgan diyordagi tarixiy obidalarni bilish",
+      "o‘zining o‘quvchilik burchi va vazifalarini bilish, unga rioya qilish, sinfda va oilada o‘z o‘rniga ega bo‘lish; o‘zidan kattalarga, o‘rtoqlari va o‘zidan kichiklarga yordam berish",
+      "texnologiya faniga oid atamalarni muloqot jarayonida qo‘llay olish;\ntayyorlanadigan buyum ko‘rinishini sodda bayon qilish;\nmavzu bo‘yicha savollar berish hamda savollarga javob berish;"
+    ]
+  },
+  {
+    "q": "Suhbat metodining maqsadi.",
+    "correct": "O’qituvchi to’g’ri qo’yilgan savollar bilan o’quvchilarga ilgari o’zlashtirgan bilimlarni esga tushiradi va shu asosda mustaqil ravishda yangi bilimlar hosil qilishga undaydi",
+    "wrong": [
+      "Yangi Texnologiya tushunchalari ochib beriladi",
+      "O’quvchilar o’qituvchilar savoliga javob berib boradi.",
+      "O’quvchilardan intervyu oladi."
+    ]
+  },
+  {
+    "q": "“Muallim — kohinlarning burchlari bolalarga bilimlarni yaxshilik yo‘sinida o‘rgatib, ularni yaxshi bilan yomonni ajratadigan qilib tarbiyalash va to‘g‘ri yo‘lga hidoyat etishdir” deyilgan",
+    "correct": "Zardo‘sht ta’limotida",
+    "wrong": [
+      "Naqshbandiy ta’limotida",
+      "Al Buxoriy ta’limotida",
+      "Ibn Sino ta’limotida"
+    ]
+  },
+  {
+    "q": "Kartonning yelim bilan ishlagandan so'ng cho'tkani...?",
+    "correct": "Sovun va suv bilan yuvib quriting",
+    "wrong": [
+      "Suv bilan yuving",
+      "Tashlab yuboring",
+      "Quriting."
+    ]
+  },
+  {
+    "q": "Qog'oz-bu…?",
+    "correct": "Qog‘oz — bu asosan yog‘och tolalari (selluloza) dan tayyorlanadigan yupqa va yengil materialdir.",
+    "wrong": [
+      "Chiqindi materiali",
+      "Tabiiy material.",
+      "Ishlab chiqarish materiali"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limini rejalashtirishda nimalarga e’tibor berish kerak?",
+    "correct": "DTS talablariga, o’quv reja va o’quv dasturiga",
+    "wrong": [
+      "Darsni tashkil etilishiga, kirish, joriy va yakuniy instruktajlarga",
+      "Didaktika printsiplariga to’la to’kis mos keladigan bo’lishi kerak.",
+      "Mavzuga qarab rejalashtiriladi"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limida estetik madaniyat va ijodkorlik kompetensiyasi",
+    "correct": "Texnologiya faniga oid kompetensiyasi",
+    "wrong": [
+      "Tayanch kompetensiyasi",
+      "Ijodkorlik kompetensiyasi",
+      "Estetik kompetensiyasi"
+    ]
+  },
+  {
+    "q": "STEAM so’zining yoymasi to’g’ri berilgan qatorni belgilang?",
+    "correct": "Science, Technology, Engineering, Art, Mathematics",
+    "wrong": [
+      "Subject,  Evrestik, Art, Mathematics",
+      "Science, Technology, Engineering",
+      "Techno, Engineering, Arithmetic"
+    ]
+  },
+  {
+    "q": "Amaliy darsning so’ngi bosqichi nima?",
+    "correct": "Ish o’rnini tartibga solish.",
+    "wrong": [
+      "Mustahkamlash.",
+      "Savol-javob o’tkazish.",
+      "O’quvchilarni baholash."
+    ]
+  },
+  {
+    "q": "Berilgan ketma-ketligi qaysida javobda to’g’ri ifodalangan?",
+    "correct": "Tushuncha-bilim-ko’nikma-malaka",
+    "wrong": [
+      "Ko’nikma-bilim-malaka-tushuncha",
+      "Bilim-tushuncha-ko’nikma-malaka",
+      "Ko’nikma-bilim-tushuncha-malaka"
+    ]
+  },
+  {
+    "q": "Texnologiya faniga \noid kompetensiyalar qaysi qatorda to’g’ri ko’rsatilgan",
+    "correct": "texnologiya ta’limida estetik madaniyat va ijodkorlik kompetensiyasi, texnologiya ta’limida oʻz-oʻzini rivojlantirish va asrash kompetensiyasi texnologiya ta’limida amaliy faoliyatni rivojlantirish kompetensiyasi",
+    "wrong": [
+      "texnologiya ta’limida estetik madaniyat va ijodkorlik kompetensiyasi, texnologiya ta’limida amaliy faoliyatni rivojlantirish kompetensiyasi",
+      "texnologiya ta’limida estetik madaniyat va ijodkorlik kompetensiyasi, texnologiya ta’limida oʻz-oʻzini rivojlantirish va asrash kompetensiyasi texnologiya ta’limida matematik faoliyatni rivojlantirish kompetensiyasi",
+      "texnologiya ta’limida estetik didni kompetensiyasi, texnologiya ta’limida qo’l mehnatini rivojlantirish va asrash kompetensiyasi texnologiya ta’limida amaliy faoliyatni rivojlantirish kompetensiyasi"
+    ]
+  },
+  {
+    "q": "Ekskursiya tushunchasining javobi qaysi qatorda to’g’ri ko’rsatilgan?",
+    "correct": "Narsa va hodisalarni tabiiy sharoitda yoki maxsus muassasalarda tashkiliy ravishda o’rganish",
+    "wrong": [
+      "Ishlab chiqarish korxonalariga sayohatlar uyushtirish",
+      "Nazariya va amaliyotni o’zaro bog’liq holda amalga oshirishning asosiy metodi",
+      "Bo’lajak mutaxassislarni kasbga moslashuvini ta’minlashning asosiy omili"
+    ]
+  },
+  {
+    "q": "Dars nima?",
+    "correct": "Bevosita o’qituvchining rahbarligida muayyan o’quvchilar guruhi bilan olib boriladigan ta’lim mashg’uloti",
+    "wrong": [
+      "O’quv ishlarining asosiy shakli va metodi",
+      "O’quv ishlarining bajarilish",
+      "O’quvchilarning mavzudagi muhim masalalarni chuqur o’rganish yuzasidan mustaqil ishlash"
+    ]
+  },
+  {
+    "q": "Metod tushunchasi nimani ifodalaydi?",
+    "correct": "Tadqiq qilish yoki bilish yo’li",
+    "wrong": [
+      "Ta’lim berish usullari va shakllari",
+      "Tushuntirish uslubi",
+      "O’quvchilarga bilim berish va baholash jarayoni"
+    ]
+  },
+  {
+    "q": "Ta’lim vositasi nima?",
+    "correct": "Ma’lum o’qitish usulini muvaffaqiyatli amalga oshirish uchun zarur bo’lgan yordamchi o’quv materiallari",
+    "wrong": [
+      "Dars jarayonida tabiiy va sun’iy ko’rgazmali vositalardan foydalanish",
+      "Ta’lim jarayonida o’qituvchi va o’quvchilarning kutilgan maqsadga erishishga qaratilgan faoliyati",
+      "Ta’lim-tarbiya jarayonidagi vosita"
+    ]
+  },
+  {
+    "q": "Kvilling so’zi bizga qayerdan kirib kelgan?",
+    "correct": "Yevropadan",
+    "wrong": [
+      "Rossiyadan",
+      "Afrikadan",
+      "Amerikadan"
+    ]
+  },
+  {
+    "q": "Kvilling qaysi asrda paydo bo’lgan",
+    "correct": "XV–XVI asrlarda Yevropada paydo bo‘lgan",
+    "wrong": [
+      "XVII–XVIII asrlarda Amerikada paydo bo‘lgan deb",
+      "X–XI asrlarda Xitoyda paydo bo‘lgan deb",
+      "XVI–XVII asrlarda Yaponida paydo bo‘lgan deb"
+    ]
+  },
+  {
+    "q": "Kvilling so’zining ma’nosi?",
+    "correct": "Ingliz tilidagi “quill” so‘zidan kelib chiqqan bo‘lib, pat (qush pati) degan ma’noni anglatadi. \nAvvallari qog‘oz tasmalari pat uchiga o‘rab shakl berilgan,",
+    "wrong": [
+      "Qush pati degan ma’noni  bildiradi",
+      "Lotin tilidagi “quvill” so‘zidan kelib chiqqan bo‘lib, pat degan ma’noni anglatadi.",
+      "Bu so‘z ingliz tilidagi “quill” so‘zidan kelib chiqqan bo‘lib, patga o’rayman degan ma’noni anglatadi."
+    ]
+  },
+  {
+    "q": "Kompetensiya nima?",
+    "correct": "Sohaga oid bilim, ko‘nikma, malaka, qarashlar majmui, shaxsning qadriyati va sifatlari, namoyon bo’lishi yoki ta’sir ko‘rsatish qobiliyati",
+    "wrong": [
+      "Kompetensiya bu bilim va ko’nikmalarning yeg’indisi",
+      "Shaxsning qadriyati va sifatlari, namoyon bo’lishi",
+      "Shaxs sifatlarining  namoyon bo’lishi"
+    ]
+  },
+  {
+    "q": "Qaysi mamlaкatda origami bo‘yicha birinchi kitob \"Qog'ozdan o‘yinchoqlar yasash\" nashr etilgan?",
+    "correct": "1937 yilda Londonda",
+    "wrong": [
+      "1897 yilda Amerikada",
+      "1737 yilda Yaponiyada",
+      "1637 yilda Rossiyada"
+    ]
+  },
+  {
+    "q": "O’quvchilardagi qaysi fazilatlari texnologiya darslarida muhim sanaladi?",
+    "correct": "Tejamkorlik, ijodkorlik fazilatlari",
+    "wrong": [
+      "Tejamkorlik, vatanparvarlik fazilatlari",
+      "Mustaqillik, irodaviylik fazilatlari",
+      "Ijodkorlik, tashkilotchilik fazilatlari"
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinf texnologiya xonasida nimalarga amal qilish kerak?",
+    "correct": "Ish joyini to’g’ri tashkil etishga, sanitariya-gigienik talablarga rioya qilishga, texnika xavfsizligi qoidalariga amal qilishga",
+    "wrong": [
+      "Ish joyini to’g’ri tashkil etishga, texnika xavfsizligi qoidalariga amal qilishga",
+      "Sanitariya-gigienik talablarga rioya qilishga va ish joyini to’g’ri tashkil etishga",
+      "Ish joyini to’g’ri tashkil etishga, sanitariya-gigienik talablarga rioya qilishga, texnika xavfsizligi qoidalariga amal qilishga, navbatchilik qilishga"
+    ]
+  },
+  {
+    "q": "Qog’ozdan qanday amaliy ishlar bajariladi?",
+    "correct": "Applikatsiya va mozaika ishlari, kvilling, origami va maketlar yasash, pape-mashe ishlari bajariladi",
+    "wrong": [
+      "Applikatsiya va mozaika ishlari",
+      "Origami va maketlar yasash",
+      "Ko’rgazmali qurollar va maketlar yasaladi"
+    ]
+  },
+  {
+    "q": "Zamonaviy kasblar keltirilgan qatorni toping...?",
+    "correct": "Rieltor, bayer, HR director, PR menedjer, promouter, deklarant, marketolog, logist",
+    "wrong": [
+      "Kinolog, stomotolog, logist, mutaxassis",
+      "Ekolog, mommolog, deklarant",
+      "Bayer, stomotolog, biolog, texnolog"
+    ]
+  },
+  {
+    "q": "Texnologiya amaliy darslarida asosan nimalarga e’tibor berish  kerak?",
+    "correct": "Ish sifatini ta’minlovchi omillarga",
+    "wrong": [
+      "Ish joyini tayyorlashga",
+      "Аniqlik va tozalikka rioya qilishga",
+      "Ishlov berishda olingan aniqlikga"
+    ]
+  },
+  {
+    "q": "Texnologik malaka nima?",
+    "correct": "Darsda egallangan ko’nikmani mashqlar orqali takomillashib malakaga aylanishi",
+    "wrong": [
+      "Amaliy ish faoliyatining mashq qilishlar jarayonida yetilgan, mujassamlashgan tajribasi",
+      "Tez va aniq bajarish malakasi",
+      "Amaliy ish faoliyatining mashq qilishlar"
+    ]
+  },
+  {
+    "q": "1-sinflarda Texnologiya ta’limi darsi necha soatni tashkil etadi?",
+    "correct": "33 soat",
+    "wrong": [
+      "28 soat",
+      "36 soat",
+      "18 soat"
+    ]
+  },
+  {
+    "q": "Kvilling (quilling) texnikasi bu-",
+    "correct": "qog‘ozni ingichka tasma qilib kesib, uni o‘rab turli bezak va shakllar yasash san’ati degan ma’noni bildiradi",
+    "wrong": [
+      "Qog’ozdan tasmalar va shakllar yasash texnikasi",
+      "shakllar yasash san’ati degan ma’noni bildiradi",
+      "bu qog‘oz va ingichka tasma degan ma’noni bildiradi."
+    ]
+  },
+  {
+    "q": "3-sinflarda Texnologiya ta’limi darsi necha soatni tashkil etadi?",
+    "correct": "34 soat",
+    "wrong": [
+      "32 soat",
+      "33 soat",
+      "24 soat"
+    ]
+  },
+  {
+    "q": "Ayris-folding texnikasi-",
+    "correct": "Rangli qog'ozni qatlamlaridan maxsus shakllar yasash usuli hisoblanadi",
+    "wrong": [
+      "Qatlamli shakllar",
+      "Maxsus shakllar yasash texnikasi",
+      "Rangli qog'ozdan shakllar yasash usuli hisoblanadi"
+    ]
+  },
+  {
+    "q": "Ayris-folding qaysi tildan olingan?",
+    "correct": "Rus tilidan olingan bo’lib tarjima qilinganda bu \"Kamalak qatlam“ deb degan ma’noni anglatadi",
+    "wrong": [
+      "Lotin tilidan olingan bo’lib tarjima qilinganda bu \"Kamalak“ deb degan ma’noni anglatadi",
+      "Ingliz tilidan olingan bo’lib tarjima qilinganda bu \"Rangli kamalak” deb degan ma’noni anglatadi",
+      "Yunon tilidan olingan bo’lib tarjima qilinganda bu \"Kamalak tasvir” deb degan ma’noni anglatadi"
+    ]
+  },
+  {
+    "q": "Applikatsiya qachon va qayerda paydo bo’lgan?",
+    "correct": "Eramizdan 2500 yil muqaddam ko’chmanchi xalqlar orasida paydo bo’lgan",
+    "wrong": [
+      "XV asrda ko’chmanchi xalqlar orasida paydo bo’lgan",
+      "Eramizdan 2500 yil muqaddam gretsiyada paydo bo’lgan",
+      "XVII asrda Evropada paydo bo’lgan"
+    ]
+  },
+  {
+    "q": "Texnologiya fani boshqa fanlaridan bilan farq tominlari?",
+    "correct": "Ushbu fanni o‘qitishda amaliy mazmun ustivorligi; Ishlab chiqarish bilan uzviy va chambarchas bog‘liqligi;\nMujassam fan ekanligi (fanlar bilan aloqadorligi);\nO‘qitishda o‘g‘il va qiz bolalar mehnatining o‘ziga xosligi",
+    "wrong": [
+      "Amaliy mazmun ustivorligi; Ishlab chiqarish bilan uzviy va chambarchas bog‘liqligi;\nO‘qitishda o‘g‘il va qiz bolalar Texnologiyaining o‘ziga xosligi",
+      "Amaliy mazmun ustivorligi; Ishlab chiqarish bilan uzviy va chambarchas bog‘liqligi;\n (fanlar bilan aloqadorligi);\nO‘qitishda o‘g‘il va qiz bolalar Texnologiyasining o‘ziga xosligi",
+      "Mujassam fan ekanligi (fanlar bilan aloqadorligi);\nO‘qitishda o‘g‘il va qiz bolalar Texnologiyaining o‘ziga xosligi"
+    ]
+  },
+  {
+    "q": "Ish fartugidan qaysi ish turlarida foydalaniladi?",
+    "correct": "Turli materiallar va plastilin bilan ishlashda",
+    "wrong": [
+      "Qog’oz va karton bilan ishlashda",
+      "Gazlama bilan ishlashda",
+      "Konstruktorlik ishlarida"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida texnika xavfsizligi qoidalari nima uchun o’rgatiladi?",
+    "correct": "O’quvchilarni asboblardan to’g’ri foydalanish qoidalariga",
+    "wrong": [
+      "O’quvchilarni to’g’ri o’rganishga",
+      "O’quvchilarni to’g’ri o’tirishga",
+      "O’quvchilarni yaxshi tushunib olishlariga"
+    ]
+  },
+  {
+    "q": "Bigizdan qaysi ish turlarida foydalaniladi?",
+    "correct": "Karton, texnik modellash va tabiiy materiallar bilan ishlashda",
+    "wrong": [
+      "Qog’oz bilan ishlashda",
+      "Gazlama bilan ishlashda",
+      "Plastillin bilan ishlashda"
+    ]
+  },
+  {
+    "q": "Kvilling uslubidan dastlab kimlar foydalangan?",
+    "correct": "Roxibalar",
+    "wrong": [
+      "Quruvchilar",
+      "O’qituvchilar",
+      "Tikuvchilar"
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinflarda texnologiya faniga ajratilgan umumiy saot qancha",
+    "correct": "135 soat",
+    "wrong": [
+      "125 soat",
+      "130 soat",
+      "136 soat"
+    ]
+  },
+  {
+    "q": "2-sinf texnologiya darslarida eng ko’p soat qaysi ish turiga ajratilgan?",
+    "correct": "Qog’oz va karton bilan ishlash turiga",
+    "wrong": [
+      "Applikatsiya va mozaika ish turiga",
+      "Tabiiy materiallar bilan ishlash turiga",
+      "Gazlama bilan ishlash turiga"
+    ]
+  },
+  {
+    "q": "2023 yilda nashr qilingan “Texnologiya” darsliklarining muallifi kim?",
+    "correct": "R.R.Ismoilova",
+    "wrong": [
+      "X.Sanakulov",
+      "O.Qoysinov",
+      "R.Mavlonova"
+    ]
+  },
+  {
+    "q": "Origami so'zining kelib chiqishi?",
+    "correct": "“Origami” so'zining o'zi bizga quyosh chiqayotgan mamlakatdan kelgan “Ori”, ya'ni “qatlama” va Kami” - qog'oz so‘zidan kelgan",
+    "wrong": [
+      "“Ori”, ya'ni “buklash” va Kami” – yassi karton so‘zidan kelgan",
+      "“Ori”, ya'ni “qirqish” va Kami” –tekis hajmli qog'oz so‘zidan kelgan",
+      "“Ori”, ya'ni “tekislash” va Kami” – quyosh chiqayotgan mamlakatdan kelgan"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida ninani saqlash qoidasi qaysi qatorda to’g’ri ko’rsatilgan?",
+    "correct": "Maxsus nina yostiqchada quriq holda saqlash",
+    "wrong": [
+      "Quriq holda saqlash",
+      "Nina qutida saqlash",
+      "Mato orasida saqlash"
+    ]
+  },
+  {
+    "q": "Pape-mashe ish turida qanday materiallardan foydalaniladi?",
+    "correct": "Qog’oz bo’laklar, yelim, suv, vazilen",
+    "wrong": [
+      "Karton, yelim, ip",
+      "Yelim, qog’oz, ip",
+      "Gazlama, yelim, vazilen"
+    ]
+  },
+  {
+    "q": "4-sinflarda Texnologiya ta’limi darsi necha soatni tashkil etadi?",
+    "correct": "34 soat",
+    "wrong": [
+      "16 soat",
+      "38 soat",
+      "40 soat"
+    ]
+  },
+  {
+    "q": "Shardan archa o’yinchoqlarini yasashda nimalardan foydalaniladi?",
+    "correct": "Shar yelim, qaychi, ip, nina va turli bezaklar",
+    "wrong": [
+      "Yelim, nina, ip",
+      "Shar, yelim",
+      "Qog’oz, shar, yelim, turli materiallar"
+    ]
+  },
+  {
+    "q": "Applikatsiya ishini bajarishda asosiy e’tibor nimaga qaratilishi kerak?",
+    "correct": "Uning umumiy ko‘rinishiga",
+    "wrong": [
+      "Uning yorqin ranglariga",
+      "Uning badiiy  ko‘rinishiga",
+      "Uning dekorativ turiga"
+    ]
+  },
+  {
+    "q": "Qaysi maqsad  - o‘quvchilaming  mehnat  ko‘nikmalarini  egallashlari  jarayonida  mehnat  va  kasbga  munosabatlarida  yuqori axloqiy  sifatlarini,  mehnatsevarlik,  vatanparvarlik  va  tadbirkorlikni rivojlantirib borishdan iborat?",
+    "correct": "Tarbiyaviy\nmaqsad",
+    "wrong": [
+      "Ta’limiy maqsad",
+      "Rivojlantiruvchi maqsad",
+      "Nazorat maqsad"
+    ]
+  },
+  {
+    "q": "Qaysi maqsad  - o’quvchilarni barkamol shaxslar bo’lib shakllanishi uchun ularga mehnat jarayonlari va mehnatga o’rgatish, ularni kasblar haqida ma’lumotlar berish biian  birga uyg'unlashtirish orqali ularning kasbga tayyorgarligiga zamin yaratishdan iborat?",
+    "correct": "Ta’limiy maqsad",
+    "wrong": [
+      "Tarbiyaviy maqsad",
+      "Rivojlantiruvchi maqsad",
+      "Nazorat maqsad"
+    ]
+  },
+  {
+    "q": "Robot – bu....?",
+    "correct": "Oldindan belgilangan dastur asosida harakat qiladigan, turli xil operatsiyalarni bajarish uchun mo’ljallangan avtomatik qurilma",
+    "wrong": [
+      "Oldindan belgilangan dastur asosida harakat qiladigan qurilma",
+      "Turli xil operatsiyalarni bajarish uchun mo’ljallangan avtomatik qurilma",
+      "Avtomatik qurilma"
+    ]
+  },
+  {
+    "q": "Avtomobil modelini yasashda qaychi ish materiallaridan foydalaniladi?",
+    "correct": "Karton, rangli qog’oz, qaychi, yelim",
+    "wrong": [
+      "Rangli qog’oz, qaychi",
+      "Karton, qaychi, yelim",
+      "Qaychi, yelim, ragli qog’oz, ip"
+    ]
+  },
+  {
+    "q": "Qaysi maqsad  - mehnat ta’limi mashg‘ulotlari jarayonida  o ‘quvchilarga aqliy, jismoniy,  axloqiy badiiy  estetik  tarbiya  va ta’lim berish orqali ularning barkamol shaxslar bo‘lib yetishishlariga yordam berishdan iborat?",
+    "correct": "Rivojlantiruvchi maqsad",
+    "wrong": [
+      "Tarbiyaviy maqsad",
+      "Ta’limiy maqsad",
+      "Nazorat maqsad"
+    ]
+  },
+  {
+    "q": "Qaysi maqsad - o‘quvchilaming  dasturda  belgilangan  bilim, ko'nikmalarni DTS ga binoan o'zlashtirish holatini  nazorat qilishdan iborat?",
+    "correct": "Nazorat maqsad",
+    "wrong": [
+      "Ta’limiy maqsad",
+      "Rivojlantiruvchi maqsad",
+      "Tarbiyaviy maqsad"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limi darslarida origami ishlari qanday amalga oshiriladi?",
+    "correct": "Buklash orqali",
+    "wrong": [
+      "Qirqish orqali",
+      "Qog’ozni qirqish va yelimlash orqali",
+      "Yelimlash orqali"
+    ]
+  },
+  {
+    "q": "Kvilling sanati qaysi asrda vujudga kelgan?",
+    "correct": "XV asrda",
+    "wrong": [
+      "XII asrda",
+      "XVI asrda",
+      "XVII asrda"
+    ]
+  },
+  {
+    "q": "Shaxsga  mehnatning mohiyatini  chuqur angla¬tish, ularda mehnat va mehnat faoliyatiga ongli munosabatni,  shuningdek muayyan ijtimoiy-foydali harakat yoki kasbiy ko‘nikma va malakalarini shakllantirishga yo‘naltirilgan pedagogik jarayondir?",
+    "correct": "Mehnat tarbiyasi",
+    "wrong": [
+      "Rivojlantiruvchi tarbiya",
+      "Diniy tarbiya",
+      "Aqliy tarbiya"
+    ]
+  },
+  {
+    "q": "Applikatsiya ishida qanday materiallardan foydalaniladi?",
+    "correct": "Turli tabiiy materiallar, turli qog’ozdan, plastillindan, gazlamadan",
+    "wrong": [
+      "Ishlab chiqarish materiallaridan",
+      "Gazlama va uning turlaridan",
+      "Rangli qog’oz, va uning turlaridan"
+    ]
+  },
+  {
+    "q": "Texnika xavfsizligi qoidalari darslarida nimalar o’rgatiladi?",
+    "correct": "Ish qurollaridan foydalanish qoidalariga amal qilish",
+    "wrong": [
+      "Ish jarayoniga ehtiyotkorlik bilan yondashish",
+      "Ishga to’g’ri munosabatda bo’lish",
+      "Ish qurollaridan foydalanish qoidalariga amal qilish"
+    ]
+  },
+  {
+    "q": "2-sinflarda Texnologiya ta’limi darsi necha soatni tashkil etadi?",
+    "correct": "34 soat",
+    "wrong": [
+      "30 soat",
+      "32 soat",
+      "22 soat"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida tashkiliy qismga necha daqiqa ajratiladi?",
+    "correct": "10 daqiqa",
+    "wrong": [
+      "30 daqiqa",
+      "25 daqiqa",
+      "15 daqiqa"
+    ]
+  },
+  {
+    "q": "Darslarda maketlar yasashda nimalardan foydalaniladi?",
+    "correct": "Rangli qog’oz, qaychi, yelim, qalam",
+    "wrong": [
+      "Rangli qog’oz, qaychi, gazlama bo’laklari",
+      "Qog’oz turlari, gazlama bo’laklari",
+      "Qaychi, yelim, qalam, qog’oz"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida asosiy qismga necha daqiqa ajratiladi?",
+    "correct": "25 daqiqa",
+    "wrong": [
+      "10 daqiqa",
+      "15 daqiqa",
+      "5 daqiqa"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida texnika xavfsizligi qoidalari nechanchi soatda o’rgatiladi?",
+    "correct": "1-mavzuda o’rgatiladi",
+    "wrong": [
+      "22-mavzuda o’rgatiladi",
+      "25-mavzuda o’rgatiladi",
+      "14-mavzuda o’rgatiladi"
+    ]
+  },
+  {
+    "q": "Mozaika bilan ishlashda bola qanday rivojlanadi?",
+    "correct": "Maqsadni belgilash va uni amalga oshirish, barmoqlarning nozik motorli qobiliyatlari, mantiqiy fikrlash hamda badiiy did",
+    "wrong": [
+      "Aqliy faoliyat, jismoniy faoliyat, maqsad sari intilish, tasvirni tanlashga yordam berishi bilan",
+      "Naqshlariga va rasmlariga ko’ra o’ziga xos xususiyatlarga ega bo’lish",
+      "Xalq amaliy san’ati dekorativ san’at turlari vujudga keladi"
+    ]
+  },
+  {
+    "q": "“Texnologiya fani esa har qanday sharoitda qanday bo‘lishidan qat’iy nazar, oldindan belgilangan natijani beruvchi jarayondir” deb qaysi olim aytgan?",
+    "correct": "A.Kushner",
+    "wrong": [
+      "G.Altshuller",
+      "Y. Shumpeter",
+      "M.Montessori"
+    ]
+  },
+  {
+    "q": "Amaliy dars jarayonida qanday yelimdan foydalanish tavsiya etiladi?",
+    "correct": "PVA yelimidan",
+    "wrong": [
+      "Gelli yelimdan",
+      "Oddiy suyuq yelimdan",
+      "Turli yelimlardan"
+    ]
+  },
+  {
+    "q": "Texnologiya fanidan to’garaklar bir haftada nechi marta tashkil etiladi?",
+    "correct": "To’garak mashg’uloti xaftada bir martta o’tkaziladi.",
+    "wrong": [
+      "To’garak mashg’uloti xaftada ikki marta o’tkaziladi.",
+      "To’garak mashg’uloti ikki xaftada bir martta o’tkaziladi",
+      "To’garak mashg’uloti bir oyda ikki martta o’tkaziladi"
+    ]
+  },
+  {
+    "q": "Texnik modellashtirish ishlarining ahamiyati nimalardan iborat?",
+    "correct": "Texnik model va maketlar xaqida tasavvurga ega bo’ladilar va politexnik bilim doiralari kengayadi",
+    "wrong": [
+      "Texnik modellar bilan tanishadi",
+      "Politexnik bilimga ega bo’ladi",
+      "Maket turlari bilan tanishadi"
+    ]
+  },
+  {
+    "q": "1-4-sinflarda texnologiya darsi haftasiga necha soatdan o’qitiladi?",
+    "correct": "1 soat",
+    "wrong": [
+      "2 soat",
+      "3 soat",
+      "4 soat"
+    ]
+  },
+  {
+    "q": "Kviling sanatining lug‘aviy manosi qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Kvilling - (inglizchadan olingan bo'lib lug'aviy ma'nosi\"qush pati\" ni anglatadi) uzun qog'oz qirqimlarining spiralsimon aylantirishidan hajmli shakl yasash san'atidir",
+    "wrong": [
+      "Kvilling - (fransuzchadan olingan bo'lib lug'aviy ma'nosi \"qush qanoti\" ni anglatadi)  qog'oz qirqimlarining spiralsimon aylantirishidan hajmli shakl yasash san'atidir",
+      "Kvilling - (nemischadan olingan bo'lib \"oq qush\" ni anglatadi) uzun qog'ozlardan hajmli shakl yasash san'atidir.",
+      "Kvilling - (fors tilidan olingan bo'lib lug'aviy ma'nosi \"ziyrak qush\" ni anglatadi)  turli xil qog'oz va kartonlardan spiralsimon hajmli shakl yasash san'atidir."
+    ]
+  },
+  {
+    "q": "Kartonning necha turi mavjud?",
+    "correct": "4 ta",
+    "wrong": [
+      "5ta",
+      "2 ta",
+      "3 ta"
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinflarda iqtisodiy tarbiya…",
+    "correct": "O’quvchilarning iqtisodiy bilim olishida faolligini oshirish va tadbirkorlik Texnologiya faoliyati ko’nikmalarini shakllantirish",
+    "wrong": [
+      "Tadbirkorlikka qiziqtirish",
+      "Iqtisodiy bilimga ega bo’lish",
+      "Iqtisodiy bilim olishida faolligini oshirish"
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinflarda oʻquvchilar qanday mehnat turi bilan shug’ullanadi?",
+    "correct": "Qoʻl mehnati turi bilan shug’ullanadi",
+    "wrong": [
+      "Texnik mehnat turi bilan shug’ullanadi",
+      "Maishiy mehnat turi bilan shug’ullanadi",
+      "Amaliy  mehnat turi bilan shug’ullanadi"
+    ]
+  },
+  {
+    "q": "Darsning texnik vositalari toʻg‘ri keltirilgan qatorni toping?",
+    "correct": "Kompyuter, video proyektor, televizor",
+    "wrong": [
+      "Darslik, doska, oʻquv qurollar",
+      "Qaychi, yelim, qog’oz",
+      "Oʻquv partasi, doska,kitob javoni"
+    ]
+  },
+  {
+    "q": "Model bu...?",
+    "correct": "Buyumning qurilmasi va ishlash prinsipini namoyish qilish uchun mo’ljallangan uning kichraytirilgan yoki kattalshtirilgan nusxasi",
+    "wrong": [
+      "Buyumning kichraytirilgan yoki kattalshtirilgan nusxasi",
+      "Buyumning qurilmasi va ishlash prinsipini namoyish qilish uchun mo’ljallangan uning kichraytirilgan nusxasi",
+      "Buyumning qurilmasi va ishlash prinsipini namoyish qilish uchun mo’ljallangan uning kattalshtirilgan nusxasi"
+    ]
+  },
+  {
+    "q": "Tabiiy materiallar bilan ishlash nechanchi sinfdan boshlab o’rgatiladi?",
+    "correct": "1-sinf",
+    "wrong": [
+      "2-sinf",
+      "3-sinf",
+      "4-sinf"
+    ]
+  },
+  {
+    "q": "Boshlang’ich sinflarda Texnologiya darslari qanday shaklda olib boriladi?",
+    "correct": "Amaliy shaklda olib boriladi",
+    "wrong": [
+      "Ma’ruza shaklda olib boriladi",
+      "Aralash shaklda olib boriladi",
+      "Semenar shaklda olib boriladi"
+    ]
+  },
+  {
+    "q": "Mozaika soʻzining lug‘aviy ma’nosi qaysi qatorda toʻg‘ri berilgan?",
+    "correct": "Mozaika (frans. masaique — muzalarga bagʻishlangan) — bir xil yoki turli xom ashyo (koshin, tosh, yogoch, marmar, metall va b.) bo‘laklaridan ishlangan tasvir, naqsh",
+    "wrong": [
+      "Mozaika (lotincha. masaique — muzalarga bagʻishlangan) — bir xil yoki turli xom ashyo, mashg'uloti tasavvurni, ranglarni idrok etishni rivojlantirishga yordam beradi",
+      "Mozaika (inglischa. masaique — muzalarga bagʻishlangan) — bir xil yoki turli xom ashyo, bolani =geometriya va mutanosiblik tushunchalari bilan tanishtiradi",
+      "Mozaika (arabcha. masaique — muzalarga bagʻishlangan) — bir xil yoki turli xom ashyo bo‘laklaridan ishlangan tasvir boʻlaklari"
+    ]
+  },
+  {
+    "q": "Qaysi asbob o’quvchining o’ng tomonida turadi?",
+    "correct": "Qaychi, chizg’ich, qalam",
+    "wrong": [
+      "Qog’oz to’plami",
+      "Nanlangan sochiqcha",
+      "Plastillin to’plami"
+    ]
+  },
+  {
+    "q": "Plastilin soʻzining ma’nosi qaysi qatorda toʻg‘ri koʻrsatilgan?",
+    "correct": "Loy, mum va moy-boʻyoqlardan tayyorlanadigan, tez qurimaydigan plastik massa",
+    "wrong": [
+      "Loy va tuproq qorishmasidan tayyorlanadigan, tez qurimaydigan plastik massa",
+      "Loy va qum qorishmasidan tayyorlanadigan, tez qurimaydigan plastik massa",
+      "Loy va toshlardan tayyorlanadigan, tez qurimaydigan plastik massa"
+    ]
+  },
+  {
+    "q": "Tuxum po’chog’idan nimalar yasaladi?",
+    "correct": "Hajmdor o’yinchoqlar",
+    "wrong": [
+      "Applikatsiyalar",
+      "Gullar",
+      "Maketlar"
+    ]
+  },
+  {
+    "q": "Mozaika ish turida nimalardan foydalaniladi?",
+    "correct": "Qog’oz bo’laklari, tabiiy urug’lar va po’choqlardan",
+    "wrong": [
+      "Qog’oz bo’laklari",
+      "Tabiiy urug’lar",
+      "Tuxum po’choqlaridan"
+    ]
+  },
+  {
+    "q": "“Marionetka qo‘g‘irchoq” yasash texnologiyasi  nechanchi sinfda berilgan?",
+    "correct": "3-sinf",
+    "wrong": [
+      "4-sinf",
+      "2-sinf",
+      "1-sinf"
+    ]
+  },
+  {
+    "q": "Ish xonalarida ishlash va asboblardan foydalanish bo'yicha qoidalar",
+    "correct": "Ish xonasiga faqat o'qituvchining ruxsati bilan kiriladi;\nHar bir o'quvchi faqat o'z  ish joyida ishlaydi;\nIsh faqat o'qituvchining ruxsati bilan boshlanadi;\nIshni boshlashdan oldin ish joyini to`g`rilab, asboblarni to`g`ri va qulay joylashtirish lozim;\nIsh vaqtida ish joyini tartibli saqlash;\nO'tmas va buzuq asboblar bilan ishlamaslik;",
+    "wrong": [
+      "Ish xonasiga faqat o'qituvchining ruxsati bilan kiriladi;\nHar bir o'quvchi faqat o'z  ish joyida ishlaydi;",
+      "Ish xonasiga faqat o'qituvchining ruxsati bilan kiriladi;\nIshni boshlashdan oldin ish joyini to`g`rilab, asboblarni to`g`ri va qulay joylashtirish lozim",
+      "Har bir o'quvchi faqat o'z  ish joyida ishlaydi;\nIsh faqat o'qituvchining ruxsati bilan boshlanadi;\nIshni boshlashdan oldin ish joyini to`g`rilab, asboblarni to`g`ri va qulay joylashtirish lozim;"
+    ]
+  },
+  {
+    "q": "Applikatsiya soʻzining lug‘aviy ma’nosi qaysi qatorda toʻg‘ri koʻrsatilgan?",
+    "correct": "Applikatsiya (lotincha applicatio – yopishtirish) – gazlama, qogʻoz va boshqa materiallarga rang-barang gazlama, qogʻoz boʻlaklarini tikish yoki yopishtirish yoʻli bilan naqsh ishlash, bezash",
+    "wrong": [
+      "Applikatsiya (inglischa – yopishtirish) –  qogʻoz va boshqa materiallarga rang-barang gazlama, qogʻoz boʻlaklarini yopishtirish yoʻli bilan naqsh ishlash, bezash",
+      "Applikatsiya ( grekcha – yopishtirish) – gazlama va boshqa materiallarga rang-barang gazlamalarni yopishtirish yoʻli bilan naqsh ishlash, bezash",
+      "Applikatsiya (yunoncha – buklash) – rang-barang gazlama, qogʻoz boʻlaklarini tikish yoki yopishtirish yoʻli bilan naqsh ishlash, bezash"
+    ]
+  },
+  {
+    "q": "Gullarni parvarishlashda qaysi ish qurollaridan foydalaniladi?",
+    "correct": "Belkurak, ketmon, xaskash, suv purkagich, chelak, tokqaychi",
+    "wrong": [
+      "Belkurak, suv purkagich, chelak, tokqaychi",
+      "Suv purkagich, chelak, tokqaychi",
+      "Ketmon, xaskash, suv purkagich, qaychi, sochiq"
+    ]
+  },
+  {
+    "q": "Barglarni quritish ketma-ketligi qaysi qatorda toʻg‘ri berilgan?",
+    "correct": "Barglarni saralab, tozalab oling, dastlab barglarni qog‘ozlar orasiga qoʻying, keyin esa ustidan qalin qog‘ozni yopib, og‘ir buyumni bostirib qoʻying",
+    "wrong": [
+      "Dastlab barglarni qog‘ozlar orasiga qoʻying, barglarni saralab, tozalab oling, keyin esa ustidan qalin qog‘ozni yopib, og‘ir buyumni bostirib qoʻying",
+      "Barglarni saralab, tozalab oling, keyin esa ustidan qalin qog‘ozni yopib, og‘ir buyumni bostirib qoʻying dastlab barglarni qog‘ozlar orasiga qoʻying",
+      "Dastlab barglarni qog‘ozlar orasiga qoʻying, keyin esa ustidan qalin qog‘ozni yopib, og‘ir buyumni bostirib qoʻying"
+    ]
+  },
+  {
+    "q": "Angishvondan qaysi ish turida foydalaniladi?",
+    "correct": "Gazlama va ip turlari bilan ishlashda",
+    "wrong": [
+      "Applikatsiya va mozaika ish turida",
+      "Qog’oz va karton bilan ishlashda",
+      "Plastillin bilan ishlashda"
+    ]
+  },
+  {
+    "q": "Texnologiya darslarida harakatlanuvchi modelini yasashda qanday materialdan foydalaniladi?",
+    "correct": "Karton",
+    "wrong": [
+      "Qog‘oz",
+      "Gazlama",
+      "Plastilin"
+    ]
+  },
+  {
+    "q": "Rangli qog’ozni qaysi olim kashf qilgan?",
+    "correct": "Friderix",
+    "wrong": [
+      "Draber",
+      "Volter",
+      "Berk"
+    ]
+  },
+  {
+    "q": "Qog‘oz qayerda va kim toionidan kashf qilingan?",
+    "correct": "Xitoyda taxminan 105-yilda Say Lun ismli odam tomonidan ixtiro qilingan",
+    "wrong": [
+      "Amerikada taxminan 205-yilda Djonson Ben  ismli odam tomonidan ixtiro qilingan",
+      "Fransiya taxminan 110-yilda Albert ismli odam tomonidan ixtiro qilingan",
+      "Yaponiyada taxminan 108-yilda Say Lun ismli odam tomonidan ixtiro qilingan"
+    ]
+  },
+  {
+    "q": "Kitob uchun muqova yasashda asosiy ish materiali nima hisoblanadi?",
+    "correct": "Karton, yelim, qaychi, chizg’ich, qalam",
+    "wrong": [
+      "Karton qog’ozi",
+      "Qog’oz, qaychi",
+      "Qog’oz, karton, qaychi"
+    ]
+  },
+  {
+    "q": "Eskiz nima?",
+    "correct": "Biror predmet rasmining tugallanmagan, xomaki, taxminiy nusxasi.",
+    "wrong": [
+      "Biror predmet rasmining tugallangan nusxasi",
+      "Umumiy qabul qilingan namuna",
+      "Tugallangan proyekt, biror predmetning andozasi"
+    ]
+  },
+  {
+    "q": "Shablon nima?",
+    "correct": "Umumiy qabul qilingan namuna.",
+    "wrong": [
+      "Biror predmet rasmining tugallanmagan, xomaki, taxminiy nusxasi",
+      "Biror predmet rasmining tugallangan nusxasi",
+      "Tugallangan proyekt, biror predmetning andozasi"
+    ]
+  },
+  {
+    "q": "Geometrik shakllardan robotni qurish-yasashda qanday figuralardan foydalaniladi?",
+    "correct": "Doira, uchburchak, to’g’ri to’rtburchak, kvadrat",
+    "wrong": [
+      "Kvadrat, uchburchak, doira",
+      "Uchburchak, to’g’ri to’rtburchak, kvadrat",
+      "Doira, to’g’ri to’rtburchak, kvadrat"
+    ]
+  },
+  {
+    "q": "Applikatsiya usulida tabriknoma yasashda nimalardan foydalaniladi?",
+    "correct": "Rangli qog’oz, karton, chizg’ich, qalam, yelim, qaychi, yelim uchun cho’tka",
+    "wrong": [
+      "Rangli qog’oz, yelim",
+      "Karton, yelim, qaychi, yelim uchun cho’tka",
+      "Qog’oz, yelim, qaychi cho’tka"
+    ]
+  },
+  {
+    "q": "Papye-mashe so‘zining ma’nosini toping?",
+    "correct": "Fransuzcha so‘z bo‘lib, “chaynalgan” yoki “g‘ijimlangan qog‘oz” ma’nosini anglatadi",
+    "wrong": [
+      "Inglizcha so‘z bo‘lib, “chaynalgan” yoki “g‘ijimlangan\nqog‘oz” ma’nosini anglatadi",
+      "Fransuzcha so‘z bo‘lib, maydalab yopishtirish degan ma’noni anglatadi",
+      "Grekcha so‘z bo‘lib, “chaynalgan” yoki “g‘ijimlangan qog‘oz” ma’nosini anglatadi"
+    ]
+  },
+  {
+    "q": "Estetik tarbiya qaysi qatorda toʻg‘ri koʻrsatilgan?",
+    "correct": "O`quvchilarni voqelikdagi, san`atdagi, tabiatdagi, turmushdagi go`zallikni idrok qilish",
+    "wrong": [
+      "Eng avvalo, shaxsning estetik qiziqishlari, didi, estetik hissiyotlarida ifodalanadi",
+      "Estetik ong ijtimoiy voqelik, tabiat, san`at bilan bevosita muloqot",
+      "Badiiy ta`lim va tarbiya natijasida shakllanadi"
+    ]
+  },
+  {
+    "q": "Skvish o’yinchog’i nima?",
+    "correct": "Qo’lda ezg’ilanadigan ermak o’yinchoq",
+    "wrong": [
+      "Paxtali yumshoq o’yinchoq",
+      "Xamirdan tayyorlangan o’yinchoq",
+      "Qattiq taxtali o’yinchoq"
+    ]
+  },
+  {
+    "q": "Texnologiya ta’limi va uni oʻqitish metodikasi” fani nimani oʻrgatadi?",
+    "correct": "Texnologiya faniga oid nazariy bilim, amaliy koʻnikma va malakalarni egallashlari, kasb tanlashda oʻquvchlarning intellektual qobiliyatlarini ilmiy va texnologik ijodkorlikka jalb qilish imkoniyatini rivojlantirishga",
+    "wrong": [
+      "Texnologiya faniga oid amaliy koʻnikma xosil boʻlishiga, ranglarni xis qilishga, sitqi dildan xizmat qilishga, oʻzaro doʻstona munosabatga oʻrgatadi",
+      "Texnologiya fani oid amaliy koʻnikma xosil boʻlishiga, oʻquvchilarni mehnatga hurmat bilan yondashishga tayyorlaydi",
+      "Oʻquvchilarni texnologiya darslarida sa’nat asarini yaratishga, mehnatni oqilona bajarishga, ruhan tayyorlaydi"
+    ]
+  },
+  {
+    "q": "Robot so’zi qanday ma’noni anglatadi?",
+    "correct": "Chex tilida “ish” degan ma’noni anglatadi",
+    "wrong": [
+      "Ingliz tilida “ kurash” degan ma’noni anglatadi",
+      "Grekcha “ ish” degan ma’noni anglatadi",
+      "Arab tilida “ yaxlit” degan ma’noni anglatadi"
+    ]
+  },
+  {
+    "q": "4-sinf texnologiya darslarida eng ko’p soat qaysi ish turiga ajratilgan",
+    "correct": "Mobil, turg‘un, android robotlar",
+    "wrong": [
+      "Xarakatlanuvch, buyruq bajaruvchi, oldindan dasturlangan",
+      "Gumanoid robotlar va ko‘chma robotlar",
+      "Mobil, turg‘un, android robotlar, ko‘chma robotlar"
+    ]
+  },
+  {
+    "q": "Turli materiallar bilan ishlash ish turi qaysi qatorda koʻrsatilgan?",
+    "correct": "Applikatsiya va mozaika, loy va plastilin, turli tabiiy materiallar bilan ishlash",
+    "wrong": [
+      "Applikatsiya va mozaika, pape-mashe, qog’oz va karton bilan ishlash",
+      "Tabiiy materiallar, loy va plastilin, qog’oz va karton bilan ishlash",
+      "Applikatsiya, mozaika va turli materiallar bilan ishlash"
+    ]
+  },
+  {
+    "q": "Texnologiya fanidan sinfdan tashqari ishlarning shakllari?",
+    "correct": "Ommaviy ishlar, toʻgarak ishlari, yakka tartibdagi mashg’ulotlarga qatnashish",
+    "wrong": [
+      "Darsdan tashqari bajariladigan ishlar, maktab ishlari, yakka tartibdagi ishlar",
+      "Ommaviy ishlar, maktab ishlari, jamoat ishlarida qatnashish",
+      "Jamoaviy ishlar, maktab ishlari, yakka tartibdagi mashg’ulotlarga qatnashish"
+    ]
+  },
+  {
+    "q": "Mehnat tarbiyasining mazmun va mohiyati?",
+    "correct": "Mehnat tarbiyasi shaxsning har tomonlama shakllanish vositasi, uning shaxs sifatida ulg‘ayish omilidir",
+    "wrong": [
+      "Mehnat tarbiyasi shaxsning rivojlantirishning ajralmas qismidir",
+      "Mehnat inson hayotining zaruriy shartidir",
+      "Mehnat butun moddiy va ma’naviy boyliklarning ijtimoiy taraqqiyotning negizidir"
+    ]
+  },
+  {
+    "q": "Paralondan texnologiya darslarida nimalar yasash mumkin?",
+    "correct": "Yumshoq o’yinchoqlar",
+    "wrong": [
+      "Suvinerlar",
+      "Texnik modellar",
+      "Applikatsiyalar"
+    ]
+  },
+  {
+    "q": "Oʻquvchilarda kasb-hunar tushunchalarini shakllantirishda qiziqtirishda qaysi ish turlaridan foydalanish mumkin?",
+    "correct": "Texnologiya darslaridagi barcha ish turlaridan",
+    "wrong": [
+      "Qog’oz va karton bilan ishlash turida",
+      "Gazlama bilan ishlash turida",
+      "Tabiiy materiallar bilan ishlash turida"
+    ]
+  },
+  {
+    "q": "Ipni o’lchash qaysi usulda amalga oshiriladi?",
+    "correct": "Qo’l va tirsak aylanasida amalga oshiriladi",
+    "wrong": [
+      "Qo’l aylanasida amalga oshiriladi",
+      "Tirsak aylanasida amalga oshiriladi",
+      "Qo’l o’lchovida amalga oshiriladi"
+    ]
+  },
+  {
+    "q": "Texnik modellashtirish ishlarining ahamiyati nimalardan iborat?",
+    "correct": "Texnik model va maketlar xaqida tasavvurga ega boʻladilar va politexnik bilim doiralari kengayadi",
+    "wrong": [
+      "Texnik modellar bilan tanishadilar,qoʻl mehnati rivojlanadi",
+      "Politexnik bilimga ega boʻladi, texnik qarashlar va ijodiy tassavurlar kengayadi",
+      "Maket turlari bilan tanishadi"
+    ]
+  },
+  {
+    "q": "“Darsga tayyorgarlik koʻrish” darsning qaysi qismida bajariladi?",
+    "correct": "Tashkiliy qismida",
+    "wrong": [
+      "Asosiy qismida",
+      "Mustaxkamlash qismida",
+      "Takrorlash qismida"
+    ]
+  },
+  {
+    "q": "4 K  modelidagi Kollabaratsiya  qanday model",
+    "correct": "O’quvchilarni jamoada ishlash qobilayatini rivojlantirish",
+    "wrong": [
+      "O’quvchilarning axborotni tanqidiy baholash",
+      "O’quvchilar bilan muloqot madaniyatini shakllantirish",
+      "O’quvchilarning ijodkorlik qobiliyatini rivojlantirish"
+    ]
+  },
+  {
+    "q": "Badiiy kashtachilik sinfdan tashqari ishlarning qaysi turiga kiradi?",
+    "correct": "To’garak ishlariga",
+    "wrong": [
+      "Ommaviy ishlar",
+      "Ekskursiya",
+      "Turli tadbirlarga"
+    ]
+  },
+  {
+    "q": "Amaliy texnologiya jarayonida qanday pichoqlardan foydalanish tavsiya etiladi?",
+    "correct": "Uchi yumoloq maxsus pichoq",
+    "wrong": [
+      "O’tmas pichoq",
+      "O’tkir pichoq",
+      "Uchi to’mtoq pichoq"
+    ]
+  },
+  {
+    "q": "Qaysi ish turida haykaltaroshlik sa’nati elementlari o’rgatiladi?",
+    "correct": "Plastillin va loy bilan ishlashda",
+    "wrong": [
+      "Gazlama va ip turlari bilan ishlashda",
+      "Applikatsiya va mozaika bilan ishlashda",
+      "Konstruktorlik va modellashtirish ish turlarida"
+    ]
+  },
+  {
+    "q": "Kartonni teshishda qaysi asbobdan foydalaniladi?",
+    "correct": "Bigizdan",
+    "wrong": [
+      "Ignadan",
+      "Qaychidan",
+      "Mixdan"
+    ]
+  }
+]
